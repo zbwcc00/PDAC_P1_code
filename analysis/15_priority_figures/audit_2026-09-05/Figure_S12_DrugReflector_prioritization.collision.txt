@@ -1,0 +1,114 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S12_DrugReflector_prioritization.pdf
+pages: 1
+visible text boxes: 39
+stroke paths: 39
+
+[FAIL] page 1 text-stroke: Text is crossed by 14 stroked path(s) �� 'rank 1'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� 'Other recurrent hit'
+  text bbox: (201.16796875, 366.2742614746094, 404.0411376953125, 374.2742614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'LDN-193189'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'tasisulam'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'sirolimus'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'Y-27632'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'baricitinib'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'BRD-K98945308'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'SR-27897'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'D-4476'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'KIN001-270'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'doramapimod'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'tazarotene'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'triclabendazole'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'olaparib'
+  other text: 'Y-39983'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'olaparib'
+  other text: 'ABT-737'
+  text bbox: (4.980466842651367, 45.46176528930664, 65.46376037597656, 312.8523864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.00'
+  other text: '0.02'
+  text bbox: (62.1640625, 323.8133239746094, 426.4793701171875, 331.8133239746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.00'
+  other text: '0.04'
+  text bbox: (62.1640625, 323.8133239746094, 426.4793701171875, 331.8133239746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.00'
+  other text: '0.06'
+  text bbox: (62.1640625, 323.8133239746094, 426.4793701171875, 331.8133239746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 2'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 3'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 4'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 5'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 6'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 7'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 8'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 9'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 10'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 11'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 12'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 13'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rank 1'
+  other text: 'rank 14'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'rank 1'
+  other text: 'rank 15'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'Other recurrent hit'
+  other text: 'Prespecified docking candidate'
+  text bbox: (201.16796875, 366.2742614746094, 404.0411376953125, 374.2742614746094)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 12 filled region(s) �� 'rank 1'
+  text bbox: (148.0234375, 45.218650817871094, 472.00360107421875, 313.1451110839844)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 2 filled region(s) �� 'Other recurrent hit'
+  text bbox: (201.16796875, 366.2742614746094, 404.0411376953125, 374.2742614746094)
+
+summary: 34 fail, 2 warn, 2 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

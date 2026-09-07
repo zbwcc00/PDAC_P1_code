@@ -1,0 +1,22 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S18_GSE21501_survival_forest.pdf
+pages: 1
+visible text boxes: 10
+stroke paths: 17
+
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'Endothelial program'
+  other text: 'EPAS1 expression'
+  text bbox: (4.484375, 89.40348052978516, 68.9181137084961, 191.02145385742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.5'
+  other text: '1.0'
+  text bbox: (160.8046875, 247.58316040039062, 456.34503173828125, 254.78317260742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.5'
+  other text: '2.0'
+  text bbox: (160.8046875, 247.58316040039062, 456.34503173828125, 254.78317260742188)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'HR=0.914; P=0.483'
+  other text: 'HR=0.972; P=0.876'
+  text bbox: (380.80078125, 88.7967758178711, 456.25018310546875, 191.7505645751953)
+
+summary: 4 fail, 0 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

@@ -1,0 +1,104 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S6_scRNA_discovery_overview.pdf
+pages: 1
+visible text boxes: 39
+stroke paths: 32
+
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� 'Discovery cohort scale'
+  text bbox: (10.4609375, 5.3391337394714355, 407.2508544921875, 40.91334915161133)
+[FAIL] page 1 text-stroke: Text is crossed by 3 stroked path(s) �� 'n=16'
+  text bbox: (55.46484375, 60.558494567871094, 169.3841552734375, 199.1880645751953)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� 'n=38'
+  text bbox: (102.8125, 59.75554656982422, 122.0351791381836, 69.28152465820312)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'Discovery cohort scale'
+  other text: 'Cellular composition'
+  text bbox: (10.4609375, 5.3391337394714355, 407.2508544921875, 40.91334915161133)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'Discovery cohort scale'
+  other text: 'Supplementary Figure S6. Multi-cohort single-cell discovery overview'
+  text bbox: (10.4609375, 5.3391337394714355, 407.2508544921875, 40.91334915161133)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '10'
+  text bbox: (23.289066314697266, 56.836761474609375, 32.1875, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '20'
+  text bbox: (23.289066314697266, 56.836761474609375, 32.1875, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '30'
+  text bbox: (23.289066314697266, 56.836761474609375, 32.1875, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '40'
+  text bbox: (23.289066314697266, 56.836761474609375, 32.1875, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 96.8% of the smaller box �� 'GSE154778'
+  other text: 'GSE155698'
+  text bbox: (25.676254272460938, 264.80596923828125, 163.2540740966797, 290.4762878417969)
+[FAIL] page 1 text-text: Text boxes overlap by 96.7% of the smaller box �� 'GSE154778'
+  other text: 'GSE212966'
+  text bbox: (25.676254272460938, 264.80596923828125, 163.2540740966797, 290.4762878417969)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'n=16'
+  other text: 'n=38'
+  text bbox: (55.46484375, 60.558494567871094, 169.3841552734375, 199.1880645751953)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'n=16'
+  other text: 'n=12'
+  text bbox: (55.46484375, 60.558494567871094, 169.3841552734375, 199.1880645751953)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '50'
+  text bbox: (192.6640625, 47.86410903930664, 206.00927734375, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '100'
+  text bbox: (192.6640625, 47.86410903930664, 206.00927734375, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '150'
+  text bbox: (192.6640625, 47.86410903930664, 206.00927734375, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.00'
+  other text: '0.25'
+  text bbox: (241.62890625, 44.02817153930664, 257.1981201171875, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.00'
+  other text: '0.50'
+  text bbox: (241.62890625, 44.02817153930664, 257.1981201171875, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.00'
+  other text: '0.75'
+  text bbox: (241.62890625, 44.02817153930664, 257.1981201171875, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0.00'
+  other text: '1.00'
+  text bbox: (241.62890625, 44.02817153930664, 257.1981201171875, 264.9812927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 96.8% of the smaller box �� 'GSE154778'
+  other text: 'GSE155698'
+  text bbox: (250.68798828125, 264.80596923828125, 388.2658386230469, 290.4762878417969)
+[FAIL] page 1 text-text: Text boxes overlap by 96.7% of the smaller box �� 'GSE154778'
+  other text: 'GSE212966'
+  text bbox: (250.68798828125, 264.80596923828125, 388.2658386230469, 290.4762878417969)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'fibroblast_CAF'
+  text bbox: (450.3984375, 73.19847869873047, 516.5413818359375, 235.71800231933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'myeloid'
+  text bbox: (450.3984375, 73.19847869873047, 516.5413818359375, 235.71800231933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'T_NK'
+  text bbox: (450.3984375, 73.19847869873047, 516.5413818359375, 235.71800231933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'B_cell'
+  text bbox: (450.3984375, 73.19847869873047, 516.5413818359375, 235.71800231933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'epithelial'
+  text bbox: (450.3984375, 73.19847869873047, 516.5413818359375, 235.71800231933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'malignant_epithelial'
+  text bbox: (450.3984375, 73.19847869873047, 516.5413818359375, 235.71800231933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'acinar'
+  text bbox: (450.3984375, 73.19847869873047, 516.5413818359375, 235.71800231933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'mast'
+  text bbox: (450.3984375, 73.19847869873047, 516.5413818359375, 235.71800231933594)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'endothelial'
+  other text: 'unknown_ambiguous'
+  text bbox: (450.3984375, 73.19847869873047, 516.5413818359375, 235.71800231933594)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 4 filled region(s) �� 'n=16'
+  text bbox: (55.46484375, 60.558494567871094, 169.3841552734375, 199.1880645751953)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'n=38'
+  text bbox: (102.8125, 59.75554656982422, 122.0351791381836, 69.28152465820312)
+
+summary: 31 fail, 2 warn, 10 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

@@ -1,0 +1,17 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S8_bulk_program_validation.pdf
+pages: 1
+visible text boxes: 26
+stroke paths: 158
+
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� 'paired logFC=0.248; P=1.17��10'
+  text bbox: (68.13678741455078, 47.01169204711914, 199.4449005126953, 55.01169204711914)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� 'P=4.7e-10'
+  text bbox: (260.63665771484375, 27.636173248291016, 440.60772705078125, 43.86091995239258)
+[FAIL] page 1 text-text: Text boxes overlap by 78.3% of the smaller box �� 'P=4.7e-10'
+  other text: 'GSE71729 primary vs normal'
+  text bbox: (260.63665771484375, 27.636173248291016, 440.60772705078125, 43.86091995239258)
+
+summary: 3 fail, 0 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

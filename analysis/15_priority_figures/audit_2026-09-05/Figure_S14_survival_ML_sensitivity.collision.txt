@@ -1,0 +1,80 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S14_survival_ML_sensitivity.pdf
+pages: 1
+visible text boxes: 21
+stroke paths: 22
+
+[FAIL] page 1 text-stroke: Text is crossed by 8 stroked path(s) �� '0.456'
+  text bbox: (72.47265625, 110.7225570678711, 464.40478515625, 185.0786895751953)
+[FAIL] page 1 text-stroke: Text is crossed by 7 stroked path(s) �� 'Clinical'
+  text bbox: (79.59365844726562, 262.7100524902344, 435.95208740234375, 287.71429443359375)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� 'Molecular Cox'
+  text bbox: (165.31674194335938, 262.0055847167969, 216.40737915039062, 287.8791809082031)
+[FAIL] page 1 text-stroke: Text is crossed by 4 stroked path(s) �� 'CPTAC external'
+  text bbox: (211.7109375, 309.2742614746094, 347.42425537109375, 317.2742614746094)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� 'Elastic-net'
+  text bbox: (288.0706481933594, 262.0024108886719, 326.21600341796875, 283.1643371582031)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� 'TCGA internal'
+  text bbox: (296.742919921875, 308.521728515625, 347.42291259765625, 317.44970703125)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� 'Survival forest'
+  text bbox: (385.3362731933594, 262.0037536621094, 436.0133361816406, 287.7268371582031)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.40'
+  other text: '0.45'
+  text bbox: (17.80859375, 77.78207397460938, 33.37781524658203, 252.85238647460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.40'
+  other text: '0.50'
+  text bbox: (17.80859375, 77.78207397460938, 33.37781524658203, 252.85238647460938)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0.40'
+  other text: '0.55'
+  text bbox: (17.80859375, 77.78207397460938, 33.37781524658203, 252.85238647460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.456'
+  other text: '0.467'
+  text bbox: (72.47265625, 110.7225570678711, 464.40478515625, 185.0786895751953)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.456'
+  other text: '0.500'
+  text bbox: (72.47265625, 110.7225570678711, 464.40478515625, 185.0786895751953)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.456'
+  other text: '0.508'
+  text bbox: (72.47265625, 110.7225570678711, 464.40478515625, 185.0786895751953)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0.456'
+  other text: '0.515'
+  text bbox: (72.47265625, 110.7225570678711, 464.40478515625, 185.0786895751953)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.456'
+  other text: '0.476'
+  text bbox: (72.47265625, 110.7225570678711, 464.40478515625, 185.0786895751953)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.456'
+  other text: '0.500'
+  text bbox: (72.47265625, 110.7225570678711, 464.40478515625, 185.0786895751953)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.456'
+  other text: '0.477'
+  text bbox: (72.47265625, 110.7225570678711, 464.40478515625, 185.0786895751953)
+[FAIL] page 1 text-text: Text boxes overlap by 96.6% of the smaller box �� 'Clinical'
+  other text: 'Molecular Cox'
+  text bbox: (79.59365844726562, 262.7100524902344, 435.95208740234375, 287.71429443359375)
+[FAIL] page 1 text-text: Text boxes overlap by 96.7% of the smaller box �� 'Clinical'
+  other text: 'Elastic-net'
+  text bbox: (79.59365844726562, 262.7100524902344, 435.95208740234375, 287.71429443359375)
+[FAIL] page 1 text-text: Text boxes overlap by 97.1% of the smaller box �� 'Clinical'
+  other text: 'Survival forest'
+  text bbox: (79.59365844726562, 262.7100524902344, 435.95208740234375, 287.71429443359375)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'CPTAC external'
+  other text: 'TCGA internal'
+  text bbox: (211.7109375, 309.2742614746094, 347.42425537109375, 317.2742614746094)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 4 filled region(s) �� '0.456'
+  text bbox: (72.47265625, 110.7225570678711, 464.40478515625, 185.0786895751953)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 7 filled region(s) �� 'Clinical'
+  text bbox: (79.59365844726562, 262.7100524902344, 435.95208740234375, 287.71429443359375)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'Molecular Cox'
+  text bbox: (165.31674194335938, 262.0055847167969, 216.40737915039062, 287.8791809082031)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 5 filled region(s) �� 'CPTAC external'
+  text bbox: (211.7109375, 309.2742614746094, 347.42425537109375, 317.2742614746094)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'Elastic-net'
+  text bbox: (288.0706481933594, 262.0024108886719, 326.21600341796875, 283.1643371582031)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 2 filled region(s) �� 'TCGA internal'
+  text bbox: (296.742919921875, 308.521728515625, 347.42291259765625, 317.44970703125)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'Survival forest'
+  text bbox: (385.3362731933594, 262.0037536621094, 436.0133361816406, 287.7268371582031)
+
+summary: 21 fail, 7 warn, 2 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

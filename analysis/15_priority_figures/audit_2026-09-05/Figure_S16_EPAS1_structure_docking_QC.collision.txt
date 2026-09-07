@@ -1,0 +1,216 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S16_EPAS1_structure_docking_QC.pdf
+pages: 1
+visible text boxes: 87
+stroke paths: 165
+
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� 'Five-conformer docking at exhaustiveness 16'
+  text bbox: (85.28125, 43.76881790161133, 345.37103271484375, 55.76881790161133)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� 'Y-39983'
+  text bbox: (167.7578125, 245.52456665039062, 269.63897705078125, 252.72457885742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'Y-39983'
+  other text: 'triclabendazole'
+  text bbox: (22.539064407348633, 310.9891052246094, 81.24121856689453, 406.1219177246094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'Y-39983'
+  other text: 'negative_control'
+  text bbox: (22.539064407348633, 310.9891052246094, 81.24121856689453, 406.1219177246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-7.5'
+  other text: '-7.0'
+  text bbox: (68.83984375, 68.13394927978516, 81.24653625488281, 186.31051635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-7.5'
+  other text: '-6.5'
+  text bbox: (68.83984375, 68.13394927978516, 81.24653625488281, 186.31051635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-7.5'
+  other text: '-6.0'
+  text bbox: (68.83984375, 68.13394927978516, 81.24653625488281, 186.31051635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '-7.5'
+  other text: '-5.5'
+  text bbox: (68.83984375, 68.13394927978516, 81.24653625488281, 186.31051635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'ASN341'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'CYS339'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'GLN322'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'GLY323'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'HIS248'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'HIS293'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'ILE261'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'ILE337'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'LEU296'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'LEU319'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'MET252'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'MET289'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'MET309'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'PHE244'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'PHE254'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'PHE280'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'SER246'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'SER292'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'SER304'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'THR321'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'TYR281'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'TYR307'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'ALA277'
+  other text: 'VAL302'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'ALA277'
+  other text: 'VAL303'
+  text bbox: (88.8765869140625, 431.418701171875, 327.3375244140625, 454.09375)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6CZW'
+  text bbox: (103.9609375, 205.26675415039062, 310.48779296875, 212.46676635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6D09'
+  text bbox: (103.9609375, 205.26675415039062, 310.48779296875, 212.46676635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6D0B'
+  text bbox: (103.9609375, 205.26675415039062, 310.48779296875, 212.46676635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6X21'
+  text bbox: (103.9609375, 205.26675415039062, 310.48779296875, 212.46676635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.00'
+  other text: '0.25'
+  text bbox: (157.26171875, 502.2003479003906, 257.3716735839844, 509.4003601074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.00'
+  other text: '0.50'
+  text bbox: (157.26171875, 502.2003479003906, 257.3716735839844, 509.4003601074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.00'
+  other text: '0.75'
+  text bbox: (157.26171875, 502.2003479003906, 257.3716735839844, 509.4003601074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.00'
+  other text: '1.00'
+  text bbox: (157.26171875, 502.2003479003906, 257.3716735839844, 509.4003601074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'Y-39983'
+  other text: 'triclabendazole'
+  text bbox: (167.7578125, 245.52456665039062, 269.63897705078125, 252.72457885742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.0'
+  other text: '0.5'
+  text bbox: (350.91015625, 287.3019104003906, 360.91925048828125, 431.8222351074219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.0'
+  other text: '1.0'
+  text bbox: (350.91015625, 287.3019104003906, 360.91925048828125, 431.8222351074219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.0'
+  other text: '1.5'
+  text bbox: (350.91015625, 287.3019104003906, 360.91925048828125, 431.8222351074219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.0'
+  other text: '2.0'
+  text bbox: (350.91015625, 287.3019104003906, 360.91925048828125, 431.8222351074219)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0.0'
+  other text: '2.5'
+  text bbox: (350.91015625, 287.3019104003906, 360.91925048828125, 431.8222351074219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '5'
+  text bbox: (351.91015625, 71.11832427978516, 359.9183654785156, 199.01754760742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '10'
+  text bbox: (351.91015625, 71.11832427978516, 359.9183654785156, 199.01754760742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '15'
+  text bbox: (351.91015625, 71.11832427978516, 359.9183654785156, 199.01754760742188)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '20'
+  text bbox: (351.91015625, 71.11832427978516, 359.9183654785156, 199.01754760742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6CZW'
+  text bbox: (382.6328125, 205.26675415039062, 589.15966796875, 212.46676635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6D09'
+  text bbox: (382.6328125, 205.26675415039062, 589.15966796875, 212.46676635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6D0B'
+  text bbox: (382.6328125, 205.26675415039062, 589.15966796875, 212.46676635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6X21'
+  text bbox: (382.6328125, 205.26675415039062, 589.15966796875, 212.46676635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6CZW'
+  text bbox: (383.515625, 431.7355041503906, 589.2771606445312, 438.9355163574219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6D09'
+  text bbox: (383.515625, 431.7355041503906, 589.2771606445312, 438.9355163574219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6D0B'
+  text bbox: (383.515625, 431.7355041503906, 589.2771606445312, 438.9355163574219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '5TBM'
+  other text: '6X21'
+  text bbox: (383.515625, 431.7355041503906, 589.2771606445312, 438.9355163574219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '1.02'
+  other text: '0.47'
+  text bbox: (384.8125, 361.8241271972656, 589.1823120117188, 411.6294860839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '1.02'
+  other text: '0.29'
+  text bbox: (384.8125, 361.8241271972656, 589.1823120117188, 411.6294860839844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '1.02'
+  other text: '0.29'
+  text bbox: (384.8125, 361.8241271972656, 589.1823120117188, 411.6294860839844)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� '1.02'
+  other text: '0.27'
+  text bbox: (384.8125, 361.8241271972656, 589.1823120117188, 411.6294860839844)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'Y-39983'
+  other text: 'triclabendazole'
+  text bbox: (407.2890625, 245.52456665039062, 587.4412231445312, 252.72457885742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'Y-39983'
+  other text: 'Negative control'
+  text bbox: (407.2890625, 245.52456665039062, 587.4412231445312, 252.72457885742188)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� '0.00'
+  text bbox: (157.26171875, 502.2003479003906, 257.3716735839844, 509.4003601074219)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 2 filled region(s) �� 'Y-39983'
+  text bbox: (167.7578125, 245.52456665039062, 269.63897705078125, 252.72457885742188)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� '1.00'
+  text bbox: (243.359375, 501.5230712890625, 257.3705749511719, 509.5582580566406)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 2 filled region(s) �� '1.02'
+  text bbox: (384.8125, 361.8241271972656, 589.1823120117188, 411.6294860839844)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 4 filled region(s) �� 'Y-39983'
+  text bbox: (407.2890625, 245.52456665039062, 587.4412231445312, 252.72457885742188)
+[WARN] page 1 text-image-edge: Text partially overlaps the edge of 1 raster image(s) �� '0.00'
+  text bbox: (157.26171875, 502.2003479003906, 257.3716735839844, 509.4003601074219)
+[WARN] page 1 text-image-edge: Text partially overlaps the edge of 1 raster image(s) �� 'EPAS1 residue'
+  text bbox: (176.8046875, 456.47894287109375, 237.83506774902344, 465.47894287109375)
+[WARN] page 1 text-image-edge: Text partially overlaps the edge of 1 raster image(s) �� '1.00'
+  text bbox: (243.359375, 501.5230712890625, 257.3705749511719, 509.5582580566406)
+
+summary: 64 fail, 8 warn, 29 contained fill overlays, 3 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

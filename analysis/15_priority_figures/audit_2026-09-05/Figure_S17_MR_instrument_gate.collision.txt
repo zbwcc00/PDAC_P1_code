@@ -1,0 +1,99 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S17_MR_instrument_gate.pdf
+pages: 1
+visible text boxes: 30
+stroke paths: 38
+
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� 'cis-eQTL instrument availability'
+  text bbox: (9.9609375, 5.33912992477417, 458.34967041015625, 40.41725540161133)
+[FAIL] page 1 text-stroke: Text is crossed by 9 stroked path(s) �� '0'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[FAIL] page 1 text-stroke: Text is crossed by 4 stroked path(s) �� 'EPAS1: false'
+  text bbox: (408.53515625, 73.2027587890625, 547.1172485351562, 234.7496795654297)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� 'EPAS1: n=0'
+  text bbox: (408.53515625, 123.283203125, 456.8354187011719, 133.12672424316406)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'cis-eQTL instrument availability'
+  other text: 'Promotion gate'
+  text bbox: (9.9609375, 5.33912992477417, 458.34967041015625, 40.41725540161133)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'cis-eQTL instrument availability'
+  other text: 'Supplementary Figure S17. MR instrument and promotion-gate audit'
+  text bbox: (9.9609375, 5.33912992477417, 458.34967041015625, 40.41725540161133)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'HERPUD1'
+  other text: 'TACC1'
+  text bbox: (9.96484375, 83.48551940917969, 44.370147705078125, 224.31832885742188)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'HERPUD1'
+  other text: 'EPAS1'
+  text bbox: (9.96484375, 83.48551940917969, 44.370147705078125, 224.31832885742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'BLUEPRINT'
+  other text: 'GTEx v8'
+  text bbox: (67.51953125, 264.3175354003906, 227.38380432128906, 271.5175476074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'BLUEPRINT'
+  other text: 'Lepik'
+  text bbox: (67.51953125, 264.3175354003906, 227.38380432128906, 271.5175476074219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '1'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� '0'
+  other text: '1'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '9051'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '5160'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� '0'
+  other text: '8879'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '7962'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '4118'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� '0'
+  other text: '7263'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0'
+  other text: '2500'
+  text bbox: (108.19140625, 308.2003479003906, 189.54534912109375, 315.4003601074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0'
+  other text: '5000'
+  text bbox: (108.19140625, 308.2003479003906, 189.54534912109375, 315.4003601074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0'
+  other text: '7500'
+  text bbox: (108.19140625, 308.2003479003906, 189.54534912109375, 315.4003601074219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'Primary MR promotion'
+  other text: 'BLUEPRINT/Lepik'
+  text bbox: (267.06640625, 73.93863677978516, 366.3001708984375, 233.86129760742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'Primary MR promotion'
+  other text: 'GTEx outcome overlap'
+  text bbox: (267.06640625, 73.93863677978516, 366.3001708984375, 233.86129760742188)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'Primary MR promotion'
+  other text: 'GTEx genome-wide instrument'
+  text bbox: (267.06640625, 73.93863677978516, 366.3001708984375, 233.86129760742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPAS1: false'
+  other text: 'EPAS1: n=0'
+  text bbox: (408.53515625, 73.2027587890625, 547.1172485351562, 234.7496795654297)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPAS1: false'
+  other text: 'Tissue mismatch / limited overlap'
+  text bbox: (408.53515625, 73.2027587890625, 547.1172485351562, 234.7496795654297)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'EPAS1: false'
+  other text: 'No causal claim'
+  text bbox: (408.53515625, 73.2027587890625, 547.1172485351562, 234.7496795654297)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 9 filled region(s) �� '0'
+  text bbox: (78.2265625, 82.8788070678711, 228.27015686035156, 225.0474395751953)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 4 filled region(s) �� 'EPAS1: false'
+  text bbox: (408.53515625, 73.2027587890625, 547.1172485351562, 234.7496795654297)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'EPAS1: n=0'
+  text bbox: (408.53515625, 123.283203125, 456.8354187011719, 133.12672424316406)
+[WARN] page 1 text-image-edge: Text partially overlaps the edge of 1 raster image(s) �� 'BLUEPRINT'
+  text bbox: (67.51953125, 264.3175354003906, 227.38380432128906, 271.5175476074219)
+[WARN] page 1 text-image-edge: Text partially overlaps the edge of 1 raster image(s) �� '0'
+  text bbox: (108.19140625, 308.2003479003906, 189.54534912109375, 315.4003601074219)
+[WARN] page 1 text-image-edge: Text partially overlaps the edge of 1 raster image(s) �� 'GTEx v8'
+  text bbox: (139.24594116210938, 263.6402587890625, 167.2539520263672, 271.6754455566406)
+
+summary: 27 fail, 6 warn, 12 contained fill overlays, 3 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

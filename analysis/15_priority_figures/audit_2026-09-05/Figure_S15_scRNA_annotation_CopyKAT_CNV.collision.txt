@@ -1,0 +1,207 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S15_scRNA_annotation_CopyKAT_CNV.pdf
+pages: 1
+visible text boxes: 79
+stroke paths: 7384
+
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.00'
+  other text: '0.25'
+  text bbox: (22.54296875, 337.2355041503906, 36.55526351928711, 498.2323913574219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.00'
+  other text: '0.50'
+  text bbox: (22.54296875, 337.2355041503906, 36.55526351928711, 498.2323913574219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0.00'
+  other text: '0.75'
+  text bbox: (22.54296875, 337.2355041503906, 36.55526351928711, 498.2323913574219)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0.00'
+  other text: '1.00'
+  text bbox: (22.54296875, 337.2355041503906, 36.55526351928711, 498.2323913574219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-10'
+  other text: '0'
+  text bbox: (26.1484375, 114.20816802978516, 36.55507278442383, 224.12301635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '-10'
+  other text: '10'
+  text bbox: (26.1484375, 114.20816802978516, 36.55507278442383, 224.12301635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-10'
+  other text: '0'
+  text bbox: (48.828125, 249.34097290039062, 101.34601593017578, 256.5409851074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-10'
+  other text: '10'
+  text bbox: (48.828125, 249.34097290039062, 101.34601593017578, 256.5409851074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE155698'
+  text bbox: (74.546875, 499.6847229003906, 292.3517150878906, 506.8847351074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE212966'
+  text bbox: (74.546875, 499.6847229003906, 292.3517150878906, 506.8847351074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-10'
+  other text: '0'
+  text bbox: (129.65625, 249.34097290039062, 182.17416381835938, 256.5409851074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-10'
+  other text: '10'
+  text bbox: (129.65625, 249.34097290039062, 182.17416381835938, 256.5409851074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-10'
+  other text: '0'
+  text bbox: (210.484375, 249.34097290039062, 263.0094909667969, 256.5409851074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-10'
+  other text: '10'
+  text bbox: (210.484375, 249.34097290039062, 263.0094909667969, 256.5409851074219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'fibroblast_CAF'
+  text bbox: (313.80859375, 80.73754119873047, 379.9515380859375, 243.26097106933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'myeloid'
+  text bbox: (313.80859375, 80.73754119873047, 379.9515380859375, 243.26097106933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'T_NK'
+  text bbox: (313.80859375, 80.73754119873047, 379.9515380859375, 243.26097106933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'B_cell'
+  text bbox: (313.80859375, 80.73754119873047, 379.9515380859375, 243.26097106933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'epithelial'
+  text bbox: (313.80859375, 80.73754119873047, 379.9515380859375, 243.26097106933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'malignant_epithelial'
+  text bbox: (313.80859375, 80.73754119873047, 379.9515380859375, 243.26097106933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'acinar'
+  text bbox: (313.80859375, 80.73754119873047, 379.9515380859375, 243.26097106933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'mast'
+  text bbox: (313.80859375, 80.73754119873047, 379.9515380859375, 243.26097106933594)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'endothelial'
+  other text: 'unknown_ambiguous'
+  text bbox: (313.80859375, 80.73754119873047, 379.9515380859375, 243.26097106933594)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0%'
+  other text: '10%'
+  text bbox: (347.86328125, 346.0323791503906, 362.2723388671875, 499.7714538574219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0%'
+  other text: '20%'
+  text bbox: (347.86328125, 346.0323791503906, 362.2723388671875, 499.7714538574219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0%'
+  other text: '30%'
+  text bbox: (347.86328125, 346.0323791503906, 362.2723388671875, 499.7714538574219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0%'
+  other text: '40%'
+  text bbox: (347.86328125, 346.0323791503906, 362.2723388671875, 499.7714538574219)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0%'
+  other text: '50%'
+  text bbox: (347.86328125, 346.0323791503906, 362.2723388671875, 499.7714538574219)
+[FAIL] page 1 text-text: Text boxes overlap by 62.7% of the smaller box �� 'malignant_epithelial'
+  other text: 'fibroblast_CAF'
+  text bbox: (390.3251647949219, 248.84814453125, 441.53839111328125, 287.73675537109375)
+[FAIL] page 1 text-text: Text boxes overlap by 97.8% of the smaller box �� 'endothelial'
+  other text: 'malignant_epithelial'
+  text bbox: (390.6758728027344, 249.34030151367188, 485.5173034667969, 287.61993408203125)
+[FAIL] page 1 text-text: Text boxes overlap by 98.4% of the smaller box �� 'endothelial'
+  other text: 'fibroblast_CAF'
+  text bbox: (390.6758728027344, 249.34030151367188, 485.5173034667969, 287.61993408203125)
+[FAIL] page 1 text-text: Text boxes overlap by 97.3% of the smaller box �� 'endothelial'
+  other text: 'myeloid'
+  text bbox: (390.6758728027344, 249.34030151367188, 485.5173034667969, 287.61993408203125)
+[FAIL] page 1 text-text: Text boxes overlap by 14.8% of the smaller box �� 'endothelial'
+  other text: 'T_NK'
+  text bbox: (390.6758728027344, 249.34030151367188, 485.5173034667969, 287.61993408203125)
+[FAIL] page 1 text-text: Text boxes overlap by 25.3% of the smaller box �� 'endothelial'
+  other text: 'endothelial'
+  text bbox: (390.6758728027344, 249.34030151367188, 485.5173034667969, 287.61993408203125)
+[FAIL] page 1 text-text: Text boxes overlap by 27.6% of the smaller box �� 'endothelial'
+  other text: 'malignant_epithelial'
+  text bbox: (390.6758728027344, 249.34030151367188, 485.5173034667969, 287.61993408203125)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE212966'
+  other text: 'GSE155698'
+  text bbox: (400.265625, 499.6847229003906, 618.0742797851562, 506.8847351074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE212966'
+  other text: 'GSE154778'
+  text bbox: (400.265625, 499.6847229003906, 618.0742797851562, 506.8847351074219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '1'
+  text bbox: (405.9921875, 75.91910552978516, 409.9964904785156, 241.81051635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '2'
+  text bbox: (405.9921875, 75.91910552978516, 409.9964904785156, 241.81051635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '3'
+  text bbox: (405.9921875, 75.91910552978516, 409.9964904785156, 241.81051635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '4'
+  text bbox: (405.9921875, 75.91910552978516, 409.9964904785156, 241.81051635742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '45.8%'
+  other text: '4.4%'
+  text bbox: (410.15625, 351.8163146972656, 610.563720703125, 490.4888610839844)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� '45.8%'
+  other text: '1.4%'
+  text bbox: (410.15625, 351.8163146972656, 610.563720703125, 490.4888610839844)
+[FAIL] page 1 text-text: Text boxes overlap by 34.8% of the smaller box �� 'fibroblast_CAF'
+  other text: 'myeloid'
+  text bbox: (416.8603210449219, 248.8389434814453, 456.2318115234375, 279.43597412109375)
+[FAIL] page 1 text-text: Text boxes overlap by 62.7% of the smaller box �� 'malignant_epithelial'
+  other text: 'fibroblast_CAF'
+  text bbox: (471.1532897949219, 248.84814453125, 522.3663940429688, 287.73675537109375)
+[FAIL] page 1 text-text: Text boxes overlap by 97.9% of the smaller box �� 'T_NK'
+  other text: 'endothelial'
+  text bbox: (471.5040283203125, 249.34036254882812, 566.345458984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 97.8% of the smaller box �� 'T_NK'
+  other text: 'malignant_epithelial'
+  text bbox: (471.5040283203125, 249.34036254882812, 566.345458984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 98.4% of the smaller box �� 'T_NK'
+  other text: 'fibroblast_CAF'
+  text bbox: (471.5040283203125, 249.34036254882812, 566.345458984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 97.3% of the smaller box �� 'T_NK'
+  other text: 'myeloid'
+  text bbox: (471.5040283203125, 249.34036254882812, 566.345458984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 14.8% of the smaller box �� 'T_NK'
+  other text: 'T_NK'
+  text bbox: (471.5040283203125, 249.34036254882812, 566.345458984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 25.3% of the smaller box �� 'T_NK'
+  other text: 'endothelial'
+  text bbox: (471.5040283203125, 249.34036254882812, 566.345458984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 27.6% of the smaller box �� 'T_NK'
+  other text: 'malignant_epithelial'
+  text bbox: (471.5040283203125, 249.34036254882812, 566.345458984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'malignant_epithelial'
+  text bbox: (477.7821960449219, 248.84295654296875, 507.692138671875, 272.81488037109375)
+[FAIL] page 1 text-text: Text boxes overlap by 33.4% of the smaller box �� 'endothelial'
+  other text: 'fibroblast_CAF'
+  text bbox: (477.7821960449219, 248.84295654296875, 507.692138671875, 272.81488037109375)
+[FAIL] page 1 text-text: Text boxes overlap by 34.8% of the smaller box �� 'fibroblast_CAF'
+  other text: 'myeloid'
+  text bbox: (497.6884460449219, 248.8389434814453, 537.0599365234375, 279.43597412109375)
+[FAIL] page 1 text-text: Text boxes overlap by 62.7% of the smaller box �� 'malignant_epithelial'
+  other text: 'fibroblast_CAF'
+  text bbox: (551.9852905273438, 248.84814453125, 603.1981201171875, 287.73675537109375)
+[FAIL] page 1 text-text: Text boxes overlap by 97.9% of the smaller box �� 'T_NK'
+  other text: 'endothelial'
+  text bbox: (552.3360595703125, 249.34033203125, 647.173583984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 97.8% of the smaller box �� 'T_NK'
+  other text: 'malignant_epithelial'
+  text bbox: (552.3360595703125, 249.34033203125, 647.173583984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 98.4% of the smaller box �� 'T_NK'
+  other text: 'fibroblast_CAF'
+  text bbox: (552.3360595703125, 249.34033203125, 647.173583984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 97.3% of the smaller box �� 'T_NK'
+  other text: 'myeloid'
+  text bbox: (552.3360595703125, 249.34033203125, 647.173583984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 96.3% of the smaller box �� 'T_NK'
+  other text: 'T_NK'
+  text bbox: (552.3360595703125, 249.34033203125, 647.173583984375, 287.6199645996094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'endothelial'
+  other text: 'malignant_epithelial'
+  text bbox: (558.6102905273438, 248.84295654296875, 588.52001953125, 272.81488037109375)
+[FAIL] page 1 text-text: Text boxes overlap by 33.4% of the smaller box �� 'endothelial'
+  other text: 'fibroblast_CAF'
+  text bbox: (558.6102905273438, 248.84295654296875, 588.52001953125, 272.81488037109375)
+[FAIL] page 1 text-text: Text boxes overlap by 34.8% of the smaller box �� 'fibroblast_CAF'
+  other text: 'myeloid'
+  text bbox: (578.5165405273438, 248.8389434814453, 617.8880004882812, 279.43597412109375)
+[FAIL] page 1 text-text: Text boxes overlap by 17.4% of the smaller box �� 'myeloid'
+  other text: 'T_NK'
+  text bbox: (610.0673217773438, 248.8414306640625, 632.57080078125, 267.62738037109375)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 2 filled region(s) �� '45.8%'
+  text bbox: (410.15625, 351.8163146972656, 610.563720703125, 490.4888610839844)
+
+summary: 65 fail, 1 warn, 43 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

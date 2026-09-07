@@ -1,0 +1,5 @@
+source_table	column	broad_id	name	moa	target	screen_id	n_panc	median_lfc	mean_lfc	fraction_lfc_le_neg05	compound	cmap_name	pubchem_cid	mean_affinity_kcal_mol	affinity_range_kcal_mol	std_affinity_kcal_mol	five_conformer_consistency	redocking_qc	decision	interpretation
+PRISM_EPAS1_candidates	BRD-K81916719-001-13-9::2.5::HTS	BRD-K81916719-001-13-9	triclabendazole	microtubule inhibitor	DNMT1	HTS	33.0	-0.856462467267	-0.868044571104458	0.787878787878788										
+PRISM_EPAS1_candidates	BRD-K56751279-300-01-4::2.5::HTS	BRD-K56751279-300-01-4	Y-39983	rho associated kinase inhibitor	ROCK1, ROCK2	HTS	36.0	-0.09478560513595	-0.0897086176175536	0.166666666666667										
+EPAS1_structure_evidence											BRD-K56751279	Y-39983	11507964.0	-6.553	-7.729 to -6.174	0.664	5/5 negative; stable across conformers	5/5 co-crystal RMSD pass	retain_priority	Primary EPAS1 PAS-B structure-supported candidate; final exhaustiveness=16
+EPAS1_structure_evidence											BRD-K81916719	triclabendazole	50248.0	-6.115	-6.967 to -5.445	0.641	5/5 negative; stable across conformers	5/5 co-crystal RMSD pass	retain_secondary	Secondary EPAS1 PAS-B sensitivity candidate; final exhaustiveness=16

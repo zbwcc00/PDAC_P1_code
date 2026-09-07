@@ -1,0 +1,86 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S11_CPTAC_protein_evidence.pdf
+pages: 1
+visible text boxes: 35
+stroke paths: 79
+
+[FAIL] page 1 text-stroke: Text is crossed by 22 stroked path(s) �� '27.91'
+  text bbox: (72.2578125, 95.0975570678711, 258.5571594238281, 271.8052673339844)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '21.51'
+  text bbox: (72.2578125, 228.8336639404297, 93.61444854736328, 238.35964965820312)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '22.22'
+  text bbox: (90.51953125, 262.46649169921875, 111.87616729736328, 271.9924621582031)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '24.46'
+  text bbox: (148.21875, 127.93132781982422, 169.57540893554688, 137.45730590820312)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EMCN'
+  other text: 'HERPUD1'
+  text bbox: (10.46093463897705, 95.34066772460938, 48.69268798828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EMCN'
+  other text: 'VWF'
+  text bbox: (10.46093463897705, 95.34066772460938, 48.69268798828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EMCN'
+  other text: 'TACC1'
+  text bbox: (10.46093463897705, 95.34066772460938, 48.69268798828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EMCN'
+  other text: 'PECAM1'
+  text bbox: (10.46093463897705, 95.34066772460938, 48.69268798828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'EMCN'
+  other text: 'MARCKS'
+  text bbox: (10.46093463897705, 95.34066772460938, 48.69268798828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '21'
+  other text: '23'
+  text bbox: (49.2890625, 291.5398864746094, 264.315185546875, 299.5398864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '21'
+  other text: '25'
+  text bbox: (49.2890625, 291.5398864746094, 264.315185546875, 299.5398864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '21'
+  other text: '27'
+  text bbox: (49.2890625, 291.5398864746094, 264.315185546875, 299.5398864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '21'
+  other text: '29'
+  text bbox: (49.2890625, 291.5398864746094, 264.315185546875, 299.5398864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '27.91'
+  other text: '24.46'
+  text bbox: (72.2578125, 95.0975570678711, 258.5571594238281, 271.8052673339844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '27.91'
+  other text: '25.23'
+  text bbox: (72.2578125, 95.0975570678711, 258.5571594238281, 271.8052673339844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '27.91'
+  other text: '26.96'
+  text bbox: (72.2578125, 95.0975570678711, 258.5571594238281, 271.8052673339844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '27.91'
+  other text: '21.51'
+  text bbox: (72.2578125, 95.0975570678711, 258.5571594238281, 271.8052673339844)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� '27.91'
+  other text: '22.22'
+  text bbox: (72.2578125, 95.0975570678711, 258.5571594238281, 271.8052673339844)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EMCN'
+  other text: 'VWF'
+  text bbox: (270.98046875, 95.34066772460938, 309.21221923828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EMCN'
+  other text: 'PECAM1'
+  text bbox: (270.98046875, 95.34066772460938, 309.21221923828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EMCN'
+  other text: 'HERPUD1'
+  text bbox: (270.98046875, 95.34066772460938, 309.21221923828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EMCN'
+  other text: 'MARCKS'
+  text bbox: (270.98046875, 95.34066772460938, 309.21221923828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'EMCN'
+  other text: 'TACC1'
+  text bbox: (270.98046875, 95.34066772460938, 309.21221923828125, 271.5125427246094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.25'
+  other text: '0.50'
+  text bbox: (332.94140625, 291.5398864746094, 512.3660888671875, 299.5398864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.25'
+  other text: '1.00'
+  text bbox: (332.94140625, 291.5398864746094, 512.3660888671875, 299.5398864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0.25'
+  other text: '2.00'
+  text bbox: (332.94140625, 291.5398864746094, 512.3660888671875, 299.5398864746094)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 5 filled region(s) �� '27.91'
+  text bbox: (72.2578125, 95.0975570678711, 258.5571594238281, 271.8052673339844)
+
+summary: 26 fail, 1 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

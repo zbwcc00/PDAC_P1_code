@@ -1,0 +1,14 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\08_program_validation\GSE21501\GSE21501_EPAS1_external_survival_KM.pdf
+pages: 1
+visible text boxes: 34
+stroke paths: 40
+
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'KaplanMeier survival'
+  text bbox: (3.3239364624023438, 67.38265991210938, 13.323944091796875, 176.67813110351562)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'KaplanMeier survival'
+  text bbox: (309.3836975097656, 67.38265991210938, 319.3836975097656, 176.67813110351562)
+
+summary: 0 fail, 2 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: REVIEW REQUIRED
+note: contained overlays can be intentional; WARN findings need final-size visual review

@@ -1,0 +1,43 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S20_TCGA_bulk_QC_PCA.pdf
+pages: 1
+visible text boxes: 26
+stroke paths: 584
+
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '100'
+  text bbox: (22.542970657348633, 255.55191040039062, 34.555076599121094, 356.6152038574219)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '200'
+  text bbox: (22.542970657348633, 255.55191040039062, 34.555076599121094, 356.6152038574219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '30'
+  other text: '50'
+  text bbox: (26.546875, 97.06754302978516, 34.55437088012695, 185.61520385742188)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '30'
+  other text: '70'
+  text bbox: (26.546875, 97.06754302978516, 34.55437088012695, 185.61520385742188)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-200'
+  other text: '-100'
+  text bbox: (71.8125, 401.1065979003906, 520.4481201171875, 408.3066101074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-200'
+  other text: '0'
+  text bbox: (71.8125, 401.1065979003906, 520.4481201171875, 408.3066101074219)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-200'
+  other text: '100'
+  text bbox: (71.8125, 401.1065979003906, 520.4481201171875, 408.3066101074219)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '27.5'
+  other text: '30.0'
+  text bbox: (289.5625, 67.43082427978516, 303.5747985839844, 190.40036010742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '27.5'
+  other text: '32.5'
+  text bbox: (289.5625, 67.43082427978516, 303.5747985839844, 190.40036010742188)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '27.5'
+  other text: '35.0'
+  text bbox: (289.5625, 67.43082427978516, 303.5747985839844, 190.40036010742188)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '27.5'
+  other text: '37.5'
+  text bbox: (289.5625, 67.43082427978516, 303.5747985839844, 190.40036010742188)
+
+summary: 11 fail, 0 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

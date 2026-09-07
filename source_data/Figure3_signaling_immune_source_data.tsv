@@ -1,0 +1,20 @@
+source_table	secreted	n_cohorts	cohorts_positive	cross_cohort_positive	min_exact_sign_p	median_beta_across_cohorts	ligand	target	receptor	pathway_name	n_edges	min_p	mean_prob	dataset	outcome	n_independent_units	n_positive	n_negative	median_conditional_beta	mean_conditional_beta	exact_two_sided_sign_p	BH_q_across_spatial_endpoints
+SecAct_cross_cohort	SPARCL1	2.0	2.0	True	0.0001220703125	0.0005335685435097																
+SecAct_cross_cohort	VWF	2.0	2.0	True	0.0001220703125	0.0007012112925044																
+SecAct_cross_cohort	MMRN2	2.0	2.0	True	0.0001220703125	0.0011699489511609																
+SecAct_cross_cohort	IGFBP7	2.0	1.0	False	0.0018310546875	0.0002380972726702																
+SecAct_cross_cohort	ANGPT2	2.0	2.0	True	0.0001220703125	0.0011201689792587																
+SecAct_cross_cohort	VEGFA	2.0	0.0	False	0.0018310546875	-8.36517822312538e-05																
+SecAct_cross_cohort	TGFB1	2.0	0.0	False	0.0703125	-0.00014534733771																
+SecAct_cross_cohort	CXCL12	2.0	1.0	False	0.2890625	0.0001666996569122																
+SecAct_cross_cohort	CCL2	2.0	0.0	False	0.4239501953125	0.0001196191046371																
+SecAct_cross_cohort	IL6	2.0	2.0	True	0.057373046875	0.0003058440071501																
+SecAct_cross_cohort	TNF	2.0	0.0	False	0.0018310546875	-0.0003945335944759																
+SecAct_cross_cohort	IL33	2.0	2.0	True	0.0001220703125	0.0007278248722915																
+CellChat_ANGPT2_edges							ANGPT2	B_cell	ITGA5_ITGB1	ANGPT	1.0	0.0	8.27035482259801e-06									
+CellChat_ANGPT2_edges							ANGPT2	CD8	ITGA5_ITGB1	ANGPT	1.0	0.0	2.02346893159606e-06									
+CellChat_ANGPT2_edges							ANGPT2	myeloid	ITGA5_ITGB1	ANGPT	3.0	0.0	1.68773471832065e-05									
+conditional_spatial														GSE282302	myeloid_neighbor_score	14.0	5.0	9.0	-0.0188476511400158	-0.0151894598913056	0.4239501953125	0.5652669270833334
+conditional_spatial														GSE282302	T_NK_neighbor_score	14.0	12.0	2.0	0.0355573571473161	0.0348065573372585	0.012939453125	0.02587890625
+conditional_spatial														GSE282302	endothelial_neighbor_score	14.0	14.0	0.0	0.0910984858986217	0.1045028439971348	0.0001220703125	0.00048828125
+conditional_spatial														GSE297144	endothelial_program_excluding_EPAS1	6.0	2.0	4.0	-0.0195645565649605	-0.0151240735671513	0.6875	0.6875

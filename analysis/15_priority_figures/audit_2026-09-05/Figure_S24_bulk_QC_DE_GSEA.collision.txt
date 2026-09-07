@@ -1,0 +1,501 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\figure2_supplement\Figure_S24_bulk_QC_DE_GSEA.pdf
+pages: 1
+visible text boxes: 152
+stroke paths: 40205
+
+[FAIL] page 1 text-stroke: Text is crossed by 13059 stroked path(s) �� 'EPHX1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-stroke: Text is crossed by 24 stroked path(s) �� 'HERPUD1'
+  text bbox: (283.171875, 606.890380859375, 315.7992248535156, 614.5111694335938)
+[FAIL] page 1 text-stroke: Text is crossed by 11 stroked path(s) �� 'AQP7'
+  text bbox: (297.5, 620.136474609375, 315.7188720703125, 627.7572631835938)
+[FAIL] page 1 text-stroke: Text is crossed by 21 stroked path(s) �� 'EPAS1'
+  text bbox: (301.01171875, 633.218505859375, 323.0273132324219, 640.8392944335938)
+[FAIL] page 1 text-stroke: Text is crossed by 138 stroked path(s) �� 'BTNL9'
+  text bbox: (307.20703125, 592.593505859375, 328.4577941894531, 600.2142944335938)
+[FAIL] page 1 text-stroke: Text is crossed by 41 stroked path(s) �� 'FLT3'
+  text bbox: (311.265625, 543.116943359375, 327.20367431640625, 550.7377319335938)
+[FAIL] page 1 text-stroke: Text is crossed by 1546 stroked path(s) �� 'TACC1'
+  text bbox: (317.71875, 648.741943359375, 340.10308837890625, 656.3627319335938)
+[FAIL] page 1 text-stroke: Text is crossed by 59 stroked path(s) �� 'CA4'
+  text bbox: (322.45703125, 564.558349609375, 335.73876953125, 572.1791381835938)
+[FAIL] page 1 text-stroke: Text is crossed by 541 stroked path(s) �� 'ADRB2'
+  text bbox: (322.83203125, 609.941162109375, 345.5987854003906, 617.5619506835938)
+[FAIL] page 1 text-stroke: Text is crossed by 1070 stroked path(s) �� 'YPEL1'
+  text bbox: (330.25390625, 629.495849609375, 351.5115051269531, 637.1166381835938)
+[FAIL] page 1 text-stroke: Text is crossed by 445 stroked path(s) �� 'GSAP'
+  text bbox: (332.80859375, 614.312255859375, 351.78546142578125, 621.9330444335938)
+[FAIL] page 1 text-stroke: Text is crossed by 33 stroked path(s) �� 'LIMS1'
+  text bbox: (334.35546875, 537.433349609375, 354.09027099609375, 545.0541381835938)
+[FAIL] page 1 text-stroke: Text is crossed by 227 stroked path(s) �� 'LHX6'
+  text bbox: (335.609375, 596.816162109375, 352.6878356933594, 604.4369506835938)
+[FAIL] page 1 text-stroke: Text is crossed by 29 stroked path(s) �� 'SLCO4A1'
+  text bbox: (337.09375, 511.866943359375, 367.83636474609375, 519.4877319335938)
+[FAIL] page 1 text-stroke: Text is crossed by 113 stroked path(s) �� 'RRAS'
+  text bbox: (343.22265625, 550.710693359375, 362.19268798828125, 558.3314819335938)
+[FAIL] page 1 text-stroke: Text is crossed by 156 stroked path(s) �� 'BATF'
+  text bbox: (346.31640625, 574.234130859375, 363.77044677734375, 581.8549194335938)
+[FAIL] page 1 text-stroke: Text is crossed by 42 stroked path(s) �� 'C1QTNF6'
+  text bbox: (347.29296875, 656.210693359375, 378.4043273925781, 663.8314819335938)
+[FAIL] page 1 text-stroke: Text is crossed by 35 stroked path(s) �� 'TNFSF13B'
+  text bbox: (350.453125, 643.034912109375, 384.60321044921875, 650.6557006835938)
+[FAIL] page 1 text-stroke: Text is crossed by 14 stroked path(s) �� 'CTSH'
+  text bbox: (358.68359375, 627.359130859375, 377.2712097167969, 634.9799194335938)
+[FAIL] page 1 text-stroke: Text is crossed by 23 stroked path(s) �� 'TIMP3'
+  text bbox: (358.94140625, 614.136474609375, 379.0517883300781, 621.7572631835938)
+[FAIL] page 1 text-stroke: Text is crossed by 20 stroked path(s) �� 'CTHRC1'
+  text bbox: (361.3984375, 486.370849609375, 389.0886535644531, 493.99163818359375)
+[FAIL] page 1 text-stroke: Text is crossed by 5 stroked path(s) �� 'LEF1'
+  text bbox: (385.453125, 521.281005859375, 401.7735900878906, 528.9017944335938)
+[FAIL] page 1 text-stroke: Text is crossed by 10858 stroked path(s) �� 'AQP7'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-stroke: Text is crossed by 24 stroked path(s) �� 'DNASE1L3'
+  text bbox: (667.3203125, 616.366943359375, 702.2352294921875, 623.9877319335938)
+[FAIL] page 1 text-stroke: Text is crossed by 23 stroked path(s) �� 'TACC1'
+  text bbox: (679.68359375, 576.968505859375, 702.0679321289062, 584.5892944335938)
+[FAIL] page 1 text-stroke: Text is crossed by 8 stroked path(s) �� 'FLT3'
+  text bbox: (683.6015625, 629.503662109375, 699.5396728515625, 637.1244506835938)
+[FAIL] page 1 text-stroke: Text is crossed by 67 stroked path(s) �� 'YPEL1'
+  text bbox: (689.8671875, 590.132568359375, 711.124755859375, 597.7533569335938)
+[FAIL] page 1 text-stroke: Text is crossed by 26 stroked path(s) �� 'LHX6'
+  text bbox: (690.59765625, 642.573974609375, 707.6761474609375, 650.1947631835938)
+[FAIL] page 1 text-stroke: Text is crossed by 27 stroked path(s) �� 'CD4'
+  text bbox: (691.453125, 603.323974609375, 705.1104736328125, 610.9447631835938)
+[FAIL] page 1 text-stroke: Text is crossed by 27 stroked path(s) �� 'EPHX1'
+  text bbox: (698.98046875, 545.894287109375, 721.37158203125, 553.5150756835938)
+[FAIL] page 1 text-stroke: Text is crossed by 1428 stroked path(s) �� 'BTNL9'
+  text bbox: (704.51953125, 655.628662109375, 725.7703247070312, 663.2494506835938)
+[FAIL] page 1 text-stroke: Text is crossed by 29 stroked path(s) �� 'PRX'
+  text bbox: (709.4375, 565.823974609375, 723.4771728515625, 573.4447631835938)
+[FAIL] page 1 text-stroke: Text is crossed by 231 stroked path(s) �� 'EPAS1'
+  text bbox: (712.8046875, 605.288818359375, 734.8201904296875, 612.9096069335938)
+[FAIL] page 1 text-stroke: Text is crossed by 1251 stroked path(s) �� 'RRAS'
+  text bbox: (714.74609375, 640.847412109375, 733.716064453125, 648.4682006835938)
+[FAIL] page 1 text-stroke: Text is crossed by 129 stroked path(s) �� 'CDC42EP4'
+  text bbox: (718.69921875, 578.976318359375, 753.98974609375, 586.5971069335938)
+[FAIL] page 1 text-stroke: Text is crossed by 163 stroked path(s) �� 'PHACTR2'
+  text bbox: (719.92578125, 592.128662109375, 751.7951049804688, 599.7494506835938)
+[FAIL] page 1 text-stroke: Text is crossed by 190 stroked path(s) �� 'SESN3'
+  text bbox: (733.00390625, 656.159912109375, 755.39501953125, 663.7807006835938)
+[FAIL] page 1 text-stroke: Text is crossed by 38 stroked path(s) �� 'TNFSF13B'
+  text bbox: (740.8984375, 641.601318359375, 775.0485229492188, 649.2221069335938)
+[FAIL] page 1 text-stroke: Text is crossed by 47 stroked path(s) �� 'LIMS1'
+  text bbox: (742.32421875, 614.386474609375, 762.05908203125, 622.0072631835938)
+[FAIL] page 1 text-stroke: Text is crossed by 37 stroked path(s) �� 'LEF1'
+  text bbox: (743.05078125, 550.948974609375, 759.3712768554688, 558.5697631835938)
+[FAIL] page 1 text-stroke: Text is crossed by 34 stroked path(s) �� 'SLCO4A1'
+  text bbox: (745.7578125, 627.534912109375, 776.5004272460938, 635.1557006835938)
+[FAIL] page 1 text-stroke: Text is crossed by 14 stroked path(s) �� 'BATF'
+  text bbox: (751.61328125, 539.027099609375, 769.0672607421875, 546.6478881835938)
+[FAIL] page 1 text-stroke: Text is crossed by 5 stroked path(s) �� 'C1QTNF6'
+  text bbox: (758.9609375, 601.257568359375, 790.0723266601562, 608.8783569335938)
+[FAIL] page 1 text-stroke: Text is crossed by 4 stroked path(s) �� 'CTHRC1'
+  text bbox: (776.27734375, 548.972412109375, 803.9675903320312, 556.5932006835938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'mitotic sister chromatid segregation'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'antigen processing and presentation'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'sensory perception of smell'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'mitotic cytokinesis'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'spindle organization'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'microtubule cytoskeleton organization involved in mitosis'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'mitotic spindle assembly'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'integrin-mediated signaling pathway'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'detection of chemical stimulus involved in sensory perception of smell'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'nuclear membrane organization'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'cytoskeleton-dependent cytokinesis'
+  other text: 'mitotic spindle organization'
+  text bbox: (27.80078125, 759.73974609375, 224.8656005859375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-20'
+  other text: '0'
+  text bbox: (215.62109375, 115.57957458496094, 224.8718719482422, 322.90142822265625)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '-20'
+  other text: '20'
+  text bbox: (215.62109375, 115.57957458496094, 224.8718719482422, 322.90142822265625)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '5'
+  text bbox: (217.75390625, 411.7748718261719, 224.8718719482422, 681.6240844726562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '10'
+  text bbox: (217.75390625, 411.7748718261719, 224.8718719482422, 681.6240844726562)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '15'
+  text bbox: (217.75390625, 411.7748718261719, 224.8718719482422, 681.6240844726562)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-20'
+  other text: '0'
+  text bbox: (253.78515625, 338.9037780761719, 476.3795166015625, 345.30377197265625)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-20'
+  other text: '20'
+  text bbox: (253.78515625, 338.9037780761719, 476.3795166015625, 345.30377197265625)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-20'
+  other text: '40'
+  text bbox: (253.78515625, 338.9037780761719, 476.3795166015625, 345.30377197265625)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-2'
+  other text: '-1'
+  text bbox: (256.51953125, 1051.59521484375, 402.0843811035156, 1057.9952392578125)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-2'
+  other text: '0'
+  text bbox: (256.51953125, 1051.59521484375, 402.0843811035156, 1057.9952392578125)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-2'
+  other text: '1'
+  text bbox: (256.51953125, 1051.59521484375, 402.0843811035156, 1057.9952392578125)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-2'
+  other text: '2'
+  text bbox: (256.51953125, 1051.59521484375, 402.0843811035156, 1057.9952392578125)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-2'
+  other text: '0'
+  text bbox: (269.12109375, 695.24755859375, 404.98907470703125, 701.6475219726562)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-2'
+  other text: '2'
+  text bbox: (269.12109375, 695.24755859375, 404.98907470703125, 701.6475219726562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'BCAT1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'TNFSF13B'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'FLT3'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'BATF'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'CTSH'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'HERPUD1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'CA4'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'RRAS'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'EPAS1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'LIMS1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'SLCO4A1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'TIMP3'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'YPEL1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'EPHX1'
+  other text: 'C1QTNF6'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'LEF1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'ADRB2'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'BTNL9'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'GSAP'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'TACC1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'EPHX1'
+  other text: 'CTHRC1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'AQP7'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPHX1'
+  other text: 'LHX6'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[FAIL] page 1 text-text: Text boxes overlap by 28.7% of the smaller box �� 'ADRB2'
+  other text: 'GSAP'
+  text bbox: (322.83203125, 609.941162109375, 345.5987854003906, 617.5619506835938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-2'
+  other text: '-1'
+  text bbox: (467.1640625, 892.4976806640625, 472.49896240234375, 963.4703369140625)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-2'
+  other text: '0'
+  text bbox: (467.1640625, 892.4976806640625, 472.49896240234375, 963.4703369140625)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-2'
+  other text: '1'
+  text bbox: (467.1640625, 892.4976806640625, 472.49896240234375, 963.4703369140625)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '-2'
+  other text: '2'
+  text bbox: (467.1640625, 892.4976806640625, 472.49896240234375, 963.4703369140625)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'FDR < 0.05 and |logFC| b\t% 1'
+  other text: 'Other'
+  text bbox: (489.8515625, 530.2906494140625, 573.0065307617188, 553.5718994140625)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'positive regulation of cell cycle process'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'sister chromatid segregation'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'nuclear chromosome segregation'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'regulation of chromosome segregation'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'mitotic sister chromatid segregation'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'chromosome segregation'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'chromosome separation'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'regulation of chromosome separation'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'establishment of chromosome localization'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'mitotic nuclear division'
+  other text: 'metaphase chromosome alignment'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'mitotic nuclear division'
+  other text: 'chromosome localization'
+  text bbox: (514.2890625, 759.73974609375, 633.0927734375, 1036.8507080078125)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'adjacent'
+  other text: 'tumor'
+  text bbox: (519.28515625, 173.94300842285156, 541.964111328125, 197.22425842285156)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-40'
+  other text: '-20'
+  text bbox: (571.73046875, 49.728004455566406, 580.9812622070312, 323.22955322265625)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '-40'
+  other text: '0'
+  text bbox: (571.73046875, 49.728004455566406, 580.9812622070312, 323.22955322265625)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '-40'
+  other text: '20'
+  text bbox: (571.73046875, 49.728004455566406, 580.9812622070312, 323.22955322265625)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '5'
+  text bbox: (603.296875, 460.0170593261719, 610.4148559570312, 681.6240844726562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '10'
+  text bbox: (603.296875, 460.0170593261719, 610.4148559570312, 681.6240844726562)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '15'
+  text bbox: (603.296875, 460.0170593261719, 610.4148559570312, 681.6240844726562)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-20'
+  other text: '0'
+  text bbox: (654.88671875, 338.9037780761719, 823.5631103515625, 345.30377197265625)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-20'
+  other text: '20'
+  text bbox: (654.88671875, 338.9037780761719, 823.5631103515625, 345.30377197265625)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-2'
+  other text: '0'
+  text bbox: (663.48046875, 695.24755859375, 786.4382934570312, 701.6475219726562)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-2'
+  other text: '2'
+  text bbox: (663.48046875, 695.24755859375, 786.4382934570312, 701.6475219726562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'BATF'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'BTNL9'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'C1QTNF6'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'AQP7'
+  other text: 'CA4'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'CD4'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'CDC42EP4'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'CTHRC1'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'DNASE1L3'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'EPAS1'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'EPHX1'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'FLT3'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'LEF1'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'LHX6'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'LIMS1'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'PHACTR2'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'PRX'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'RRAS'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'AQP7'
+  other text: 'SESN3'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'SLCO4A1'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'TACC1'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'TNFSF13B'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'AQP7'
+  other text: 'YPEL1'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '2.3'
+  other text: '2.4'
+  text bbox: (671.66015625, 1051.59521484375, 830.2406005859375, 1057.9952392578125)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '2.3'
+  other text: '2.5'
+  text bbox: (671.66015625, 1051.59521484375, 830.2406005859375, 1057.9952392578125)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '2.3'
+  other text: '2.6'
+  text bbox: (671.66015625, 1051.59521484375, 830.2406005859375, 1057.9952392578125)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'FDR < 0.05 and |logFC| b\t% 1'
+  other text: 'Other'
+  text bbox: (875.39453125, 530.2906494140625, 958.549560546875, 553.5718994140625)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'normal_pancreas'
+  other text: 'primary_pancreas'
+  text bbox: (892.9609375, 173.94300842285156, 940.9728393554688, 197.22425842285156)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '2.3'
+  other text: '2.4'
+  text bbox: (902.3203125, 838.8570556640625, 910.6612548828125, 913.8570556640625)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '2.3'
+  other text: '2.5'
+  text bbox: (902.3203125, 838.8570556640625, 910.6612548828125, 913.8570556640625)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '2.3'
+  other text: '2.6'
+  text bbox: (902.3203125, 838.8570556640625, 910.6612548828125, 913.8570556640625)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 13232 filled region(s) �� 'EPHX1'
+  text bbox: (283.171875, 487.0132141113281, 401.774658203125, 663.6817016601562)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 30 filled region(s) �� 'HERPUD1'
+  text bbox: (283.171875, 606.890380859375, 315.7992248535156, 614.5111694335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 12 filled region(s) �� 'AQP7'
+  text bbox: (297.5, 620.136474609375, 315.7188720703125, 627.7572631835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 26 filled region(s) �� 'EPAS1'
+  text bbox: (301.01171875, 633.218505859375, 323.0273132324219, 640.8392944335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 166 filled region(s) �� 'BTNL9'
+  text bbox: (307.20703125, 592.593505859375, 328.4577941894531, 600.2142944335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 49 filled region(s) �� 'FLT3'
+  text bbox: (311.265625, 543.116943359375, 327.20367431640625, 550.7377319335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1812 filled region(s) �� 'TACC1'
+  text bbox: (317.71875, 648.741943359375, 340.10308837890625, 656.3627319335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 67 filled region(s) �� 'CA4'
+  text bbox: (322.45703125, 564.558349609375, 335.73876953125, 572.1791381835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 605 filled region(s) �� 'ADRB2'
+  text bbox: (322.83203125, 609.941162109375, 345.5987854003906, 617.5619506835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1198 filled region(s) �� 'YPEL1'
+  text bbox: (330.25390625, 629.495849609375, 351.5115051269531, 637.1166381835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 515 filled region(s) �� 'GSAP'
+  text bbox: (332.80859375, 614.312255859375, 351.78546142578125, 621.9330444335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 36 filled region(s) �� 'LIMS1'
+  text bbox: (334.35546875, 537.433349609375, 354.09027099609375, 545.0541381835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 254 filled region(s) �� 'LHX6'
+  text bbox: (335.609375, 596.816162109375, 352.6878356933594, 604.4369506835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 32 filled region(s) �� 'SLCO4A1'
+  text bbox: (337.09375, 511.866943359375, 367.83636474609375, 519.4877319335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 126 filled region(s) �� 'RRAS'
+  text bbox: (343.22265625, 550.710693359375, 362.19268798828125, 558.3314819335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 181 filled region(s) �� 'BATF'
+  text bbox: (346.31640625, 574.234130859375, 363.77044677734375, 581.8549194335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 56 filled region(s) �� 'C1QTNF6'
+  text bbox: (347.29296875, 656.210693359375, 378.4043273925781, 663.8314819335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 43 filled region(s) �� 'TNFSF13B'
+  text bbox: (350.453125, 643.034912109375, 384.60321044921875, 650.6557006835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 15 filled region(s) �� 'CTSH'
+  text bbox: (358.68359375, 627.359130859375, 377.2712097167969, 634.9799194335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 25 filled region(s) �� 'TIMP3'
+  text bbox: (358.94140625, 614.136474609375, 379.0517883300781, 621.7572631835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 20 filled region(s) �� 'CTHRC1'
+  text bbox: (361.3984375, 486.370849609375, 389.0886535644531, 493.99163818359375)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 5 filled region(s) �� 'LEF1'
+  text bbox: (385.453125, 521.281005859375, 401.7735900878906, 528.9017944335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 11062 filled region(s) �� 'AQP7'
+  text bbox: (667.3203125, 529.55615234375, 803.9686279296875, 663.6309204101562)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 29 filled region(s) �� 'DNASE1L3'
+  text bbox: (667.3203125, 616.366943359375, 702.2352294921875, 623.9877319335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 27 filled region(s) �� 'TACC1'
+  text bbox: (679.68359375, 576.968505859375, 702.0679321289062, 584.5892944335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 8 filled region(s) �� 'FLT3'
+  text bbox: (683.6015625, 629.503662109375, 699.5396728515625, 637.1244506835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 79 filled region(s) �� 'YPEL1'
+  text bbox: (689.8671875, 590.132568359375, 711.124755859375, 597.7533569335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 29 filled region(s) �� 'LHX6'
+  text bbox: (690.59765625, 642.573974609375, 707.6761474609375, 650.1947631835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 35 filled region(s) �� 'CD4'
+  text bbox: (691.453125, 603.323974609375, 705.1104736328125, 610.9447631835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 29 filled region(s) �� 'EPHX1'
+  text bbox: (698.98046875, 545.894287109375, 721.37158203125, 553.5150756835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1590 filled region(s) �� 'BTNL9'
+  text bbox: (704.51953125, 655.628662109375, 725.7703247070312, 663.2494506835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 34 filled region(s) �� 'PRX'
+  text bbox: (709.4375, 565.823974609375, 723.4771728515625, 573.4447631835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 257 filled region(s) �� 'EPAS1'
+  text bbox: (712.8046875, 605.288818359375, 734.8201904296875, 612.9096069335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1450 filled region(s) �� 'RRAS'
+  text bbox: (714.74609375, 640.847412109375, 733.716064453125, 648.4682006835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 143 filled region(s) �� 'CDC42EP4'
+  text bbox: (718.69921875, 578.976318359375, 753.98974609375, 586.5971069335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 182 filled region(s) �� 'PHACTR2'
+  text bbox: (719.92578125, 592.128662109375, 751.7951049804688, 599.7494506835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 250 filled region(s) �� 'SESN3'
+  text bbox: (733.00390625, 656.159912109375, 755.39501953125, 663.7807006835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 48 filled region(s) �� 'TNFSF13B'
+  text bbox: (740.8984375, 641.601318359375, 775.0485229492188, 649.2221069335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 52 filled region(s) �� 'LIMS1'
+  text bbox: (742.32421875, 614.386474609375, 762.05908203125, 622.0072631835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 42 filled region(s) �� 'LEF1'
+  text bbox: (743.05078125, 550.948974609375, 759.3712768554688, 558.5697631835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 35 filled region(s) �� 'SLCO4A1'
+  text bbox: (745.7578125, 627.534912109375, 776.5004272460938, 635.1557006835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 16 filled region(s) �� 'BATF'
+  text bbox: (751.61328125, 539.027099609375, 769.0672607421875, 546.6478881835938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 6 filled region(s) �� 'C1QTNF6'
+  text bbox: (758.9609375, 601.257568359375, 790.0723266601562, 608.8783569335938)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 4 filled region(s) �� 'CTHRC1'
+  text bbox: (776.27734375, 548.972412109375, 803.9675903320312, 556.5932006835938)
+
+summary: 149 fail, 44 warn, 221 contained fill overlays, 9 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

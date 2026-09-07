@@ -1,0 +1,79 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\scrna_additional\Figure_S15_scRNA_sample_QC.pdf
+pages: 1
+visible text boxes: 41
+stroke paths: 355
+
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '5000'
+  text bbox: (23.289066314697266, 313.4344177246094, 45.53515625, 452.8601989746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '10000'
+  text bbox: (23.289066314697266, 313.4344177246094, 45.53515625, 452.8601989746094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '15000'
+  text bbox: (23.289066314697266, 313.4344177246094, 45.53515625, 452.8601989746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0%'
+  other text: '25%'
+  text bbox: (25.07422637939453, 78.01644897460938, 45.533939361572266, 234.39926147460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0%'
+  other text: '50%'
+  text bbox: (25.07422637939453, 78.01644897460938, 45.533939361572266, 234.39926147460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0%'
+  other text: '75%'
+  text bbox: (25.07422637939453, 78.01644897460938, 45.533939361572266, 234.39926147460938)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0%'
+  other text: '100%'
+  text bbox: (25.07422637939453, 78.01644897460938, 45.533939361572266, 234.39926147460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE155698'
+  text bbox: (76.35546875, 242.03598022460938, 280.3806457519531, 250.03598022460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE212966'
+  text bbox: (76.35546875, 242.03598022460938, 280.3806457519531, 250.03598022460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE155698'
+  text bbox: (76.7734375, 455.3680114746094, 282.19061279296875, 463.3680114746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE212966'
+  text bbox: (76.7734375, 455.3680114746094, 282.19061279296875, 463.3680114746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '1000'
+  text bbox: (329.53125, 63.86020278930664, 347.328125, 236.18441772460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '2000'
+  text bbox: (329.53125, 63.86020278930664, 347.328125, 236.18441772460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '3000'
+  text bbox: (329.53125, 63.86020278930664, 347.328125, 236.18441772460938)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '4000'
+  text bbox: (329.53125, 63.86020278930664, 347.328125, 236.18441772460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '25'
+  text bbox: (331.7578125, 280.7469177246094, 345.10546875, 447.7312927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '50'
+  text bbox: (331.7578125, 280.7469177246094, 345.10546875, 447.7312927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� '0'
+  other text: '75'
+  text bbox: (331.7578125, 280.7469177246094, 345.10546875, 447.7312927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� '0'
+  other text: '100'
+  text bbox: (331.7578125, 280.7469177246094, 345.10546875, 447.7312927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE155698'
+  text bbox: (376.34375, 455.3680114746094, 581.7609252929688, 463.3680114746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE212966'
+  text bbox: (376.34375, 455.3680114746094, 581.7609252929688, 463.3680114746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE155698'
+  text bbox: (378.15234375, 242.03598022460938, 582.1775512695312, 250.03598022460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'GSE154778'
+  other text: 'GSE212966'
+  text bbox: (378.15234375, 242.03598022460938, 582.1775512695312, 250.03598022460938)
+
+summary: 23 fail, 0 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

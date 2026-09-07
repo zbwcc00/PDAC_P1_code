@@ -1,0 +1,156 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S13_negative_pharmacology_gates.pdf
+pages: 1
+visible text boxes: 63
+stroke paths: 91
+
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '-1.00'
+  text bbox: (70.05078125, 201.32504272460938, 303.2073059082031, 209.32504272460938)
+[FAIL] page 1 text-stroke: Text is crossed by 4 stroked path(s) �� '0%'
+  text bbox: (111.0234375, 250.97738647460938, 277.79876708984375, 258.9773864746094)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '0.00'
+  text bbox: (287.6380920410156, 200.57249450683594, 303.2060852050781, 209.50050354003906)
+[FAIL] page 1 text-stroke: Text is crossed by 8 stroked path(s) �� 'rho=-0.14'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� 'Y-39983'
+  text bbox: (420.4921875, 483.7937927246094, 531.7733764648438, 491.7937927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'Y-39983'
+  other text: 'triclabendazole'
+  text bbox: (10.460935592651367, 336.3016052246094, 64.26856994628906, 405.0437927246094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPAS1'
+  other text: 'MARCKS'
+  text bbox: (26.042972564697266, 78.93441772460938, 64.273681640625, 182.38754272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'EPAS1'
+  other text: 'HERPUD1'
+  text bbox: (26.042972564697266, 78.93441772460938, 64.273681640625, 182.38754272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'EPAS1'
+  other text: 'TACC1'
+  text bbox: (26.042972564697266, 78.93441772460938, 64.273681640625, 182.38754272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-1.00'
+  other text: '-0.75'
+  text bbox: (70.05078125, 201.32504272460938, 303.2073059082031, 209.32504272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-1.00'
+  other text: '-0.50'
+  text bbox: (70.05078125, 201.32504272460938, 303.2073059082031, 209.32504272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-1.00'
+  other text: '-0.25'
+  text bbox: (70.05078125, 201.32504272460938, 303.2073059082031, 209.32504272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-1.00'
+  other text: '0.00'
+  text bbox: (70.05078125, 201.32504272460938, 303.2073059082031, 209.32504272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-0.15'
+  other text: '-0.10'
+  text bbox: (84.8359375, 441.3367614746094, 295.177978515625, 449.3367614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-0.15'
+  other text: '-0.05'
+  text bbox: (84.8359375, 441.3367614746094, 295.177978515625, 449.3367614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '-0.15'
+  other text: '0.00'
+  text bbox: (84.8359375, 441.3367614746094, 295.177978515625, 449.3367614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0%'
+  other text: '0%'
+  text bbox: (111.0234375, 250.97738647460938, 277.79876708984375, 258.9773864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0%'
+  other text: '1%'
+  text bbox: (111.0234375, 250.97738647460938, 277.79876708984375, 258.9773864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0%'
+  other text: '2%'
+  text bbox: (111.0234375, 250.97738647460938, 277.79876708984375, 258.9773864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0%'
+  other text: '2%'
+  text bbox: (111.0234375, 250.97738647460938, 277.79876708984375, 258.9773864746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'TACC1'
+  other text: 'HERPUD1'
+  text bbox: (307.7734375, 78.93441772460938, 346.004150390625, 182.38754272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'TACC1'
+  other text: 'MARCKS'
+  text bbox: (307.7734375, 78.93441772460938, 346.004150390625, 182.38754272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'TACC1'
+  other text: 'EPAS1'
+  text bbox: (307.7734375, 78.93441772460938, 346.004150390625, 182.38754272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'TACC1'
+  other text: 'HERPUD1'
+  text bbox: (307.7734375, 318.9461364746094, 346.004150390625, 422.3992614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'TACC1'
+  other text: 'MARCKS'
+  text bbox: (307.7734375, 318.9461364746094, 346.004150390625, 422.3992614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'TACC1'
+  other text: 'EPAS1'
+  text bbox: (307.7734375, 318.9461364746094, 346.004150390625, 422.3992614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0%'
+  other text: '25%'
+  text bbox: (359.19921875, 441.3367614746094, 579.3552856445312, 449.3367614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0%'
+  other text: '50%'
+  text bbox: (359.19921875, 441.3367614746094, 579.3552856445312, 449.3367614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0%'
+  other text: '75%'
+  text bbox: (359.19921875, 441.3367614746094, 579.3552856445312, 449.3367614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� '0%'
+  other text: '100%'
+  text bbox: (359.19921875, 441.3367614746094, 579.3552856445312, 449.3367614746094)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'FDR=0.76'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'rho=-0.00'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'FDR=0.98'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'rho=-0.08'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'FDR=0.80'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'rho=0.12'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'rho=-0.14'
+  other text: 'FDR=0.76'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 91.6% of the smaller box �� 'rho=-0.14'
+  other text: 'rho=-0.20'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'FDR=0.73'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'rho=-0.22'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'FDR=0.73'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'rho=-0.15'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'FDR=0.76'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 100.0% of the smaller box �� 'rho=-0.14'
+  other text: 'rho=-0.10'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 98.0% of the smaller box �� 'rho=-0.14'
+  other text: 'FDR=0.76'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'Y-39983'
+  other text: 'triclabendazole'
+  text bbox: (397.828125, 201.32504272460938, 543.9573364257812, 209.32504272460938)
+[FAIL] page 1 text-text: Text boxes overlap by 89.6% of the smaller box �� 'Y-39983'
+  other text: 'triclabendazole'
+  text bbox: (420.4921875, 483.7937927246094, 531.7733764648438, 491.7937927246094)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 8 filled region(s) �� '0%'
+  text bbox: (111.0234375, 250.97738647460938, 277.79876708984375, 258.9773864746094)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 8 filled region(s) �� 'rho=-0.14'
+  text bbox: (394.6875, 74.64885711669922, 535.33349609375, 186.67031860351562)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� '-0.50-0.250.000.250.50'
+  text bbox: (412.83984375, 260.7664489746094, 515.8410034179688, 268.7664489746094)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 2 filled region(s) �� 'Y-39983'
+  text bbox: (420.4921875, 483.7937927246094, 531.7733764648438, 491.7937927246094)
+[WARN] page 1 text-image-edge: Text partially overlaps the edge of 1 raster image(s) �� '-0.50-0.250.000.250.50'
+  text bbox: (412.83984375, 260.7664489746094, 515.8410034179688, 268.7664489746094)
+
+summary: 47 fail, 5 warn, 38 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

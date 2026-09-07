@@ -1,0 +1,25 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S9_spatial_ecology_patient_level.pdf
+pages: 1
+visible text boxes: 12
+stroke paths: 52
+
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� 'median =0.070 and 0.089'
+  text bbox: (69.59774017333984, 37.66165542602539, 180.24163818359375, 45.66165542602539)
+[FAIL] page 1 text-text: Text boxes overlap by 7.8% of the smaller box �� 'EPAS1-low neighborhood score'
+  other text: 'Figure S9. Patient-level spatial immune ecology (GSE282302)'
+  text bbox: (20.206438064575195, 5.736820220947266, 35.47043991088867, 147.6515350341797)
+[FAIL] page 1 text-text: Text boxes overlap by 69.8% of the smaller box �� 'EPAS1-high'
+  other text: 'EPAS1-low neighborhood score'
+  text bbox: (24.760391235351562, 5.73681640625, 33.760398864746094, 209.0695037841797)
+[FAIL] page 1 text-text: Text boxes overlap by 5.4% of the smaller box �� 'EPAS1-high'
+  other text: 'Figure S9. Patient-level spatial immune ecology (GSE282302)'
+  text bbox: (24.760391235351562, 5.73681640625, 33.760398864746094, 209.0695037841797)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'EPAS1-high'
+  text bbox: (24.760391235351562, 5.73681640625, 33.760398864746094, 209.0695037841797)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 2 filled region(s) �� 'median =0.070 and 0.089'
+  text bbox: (69.59774017333984, 37.66165542602539, 180.24163818359375, 45.66165542602539)
+
+summary: 4 fail, 2 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

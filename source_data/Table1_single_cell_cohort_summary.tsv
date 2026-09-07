@@ -1,0 +1,4 @@
+dataset	samples	total_cells	min_cells	median_cells	max_cells
+GSE154778	16	17086	272	867.5	2905
+GSE155698	38	136386	718	3384	7949
+GSE212966	12	71074	3370	6353.5	8056

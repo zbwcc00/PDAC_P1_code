@@ -1,0 +1,41 @@
+# Raw and intermediate data
+data/
+data_external/
+*.h5ad
+*.h5
+*.h5seurat
+*.rds
+*.RData
+*.rda
+*.mtx
+*.mtx.gz
+*.csv.gz
+*.tsv.gz
+
+# Generated results and publication files
+results/
+figures/
+manuscript/
+*.pdf
+*.docx
+*.pptx
+*.png
+*.jpg
+*.tiff
+*.svg
+
+# Local runtime and editor files
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local paths and credentials
+.env
+*.key
+*.pem
+local_config.*

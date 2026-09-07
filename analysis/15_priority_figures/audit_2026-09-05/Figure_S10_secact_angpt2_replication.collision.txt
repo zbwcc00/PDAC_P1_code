@@ -1,0 +1,19 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S10_secact_angpt2_replication.pdf
+pages: 1
+visible text boxes: 29
+stroke paths: 24
+
+[FAIL] page 1 text-text: Text boxes overlap by 5.0% of the smaller box �� 'MMRN2'
+  other text: 'ANGPT2'
+  text bbox: (96.7402114868164, 222.0251922607422, 129.95425415039062, 249.03968811035156)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 4 filled region(s) �� 'GSE297144 (n=8)'
+  text bbox: (67.1468734741211, 59.70109939575195, 130.59487915039062, 66.70109558105469)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� '62%'
+  text bbox: (227.4552764892578, 107.6434326171875, 244.21328735351562, 114.6434326171875)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'Inferred ANGPT2ITGA5_ITGB1 edges'
+  text bbox: (275.47308349609375, 234.79547119140625, 443.3056945800781, 243.79547119140625)
+
+summary: 1 fail, 3 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

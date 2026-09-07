@@ -1,0 +1,6 @@
+major_lineage	n_genes_merged	n_stable_high_confidence	n_filtered	n_contamination_excluded	n_tumor_up	n_tumor_down
+"B_cell"	9588	1	0	1	0	0
+"T_NK"	8872	9	9	0	5	4
+"endothelial"	7798	26	26	0	8	18
+"mast"	3310	1	1	0	0	1
+"myeloid"	9225	2	1	1	0	1

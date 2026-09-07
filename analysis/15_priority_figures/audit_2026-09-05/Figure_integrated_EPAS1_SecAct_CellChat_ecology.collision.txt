@@ -1,0 +1,77 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\09_spatial_validation\SecAct\Figure_integrated_EPAS1_SecAct_CellChat_ecology.pdf
+pages: 1
+visible text boxes: 68
+stroke paths: 30
+
+[FAIL] page 1 text-page-clipping: Text extends beyond the final PDF page boundary �� 'EPAS1-high minus EPAS1-low neighborhood score'
+  text bbox: (32.826812744140625, 247.15696716308594, 42.82682800292969, 495.0850830078125)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� '14/14 patients positive for both programs'
+  text bbox: (83.65862274169922, 298.8008117675781, 271.87713623046875, 307.8008117675781)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (119.52629852294922, 73.115234375, 141.7863006591797, 83.115234375)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (119.52629852294922, 105.97024536132812, 141.7863006591797, 115.97024536132812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (119.52629852294922, 138.82522583007812, 141.7863006591797, 148.82522583007812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (119.52629852294922, 171.68020629882812, 141.7863006591797, 181.68020629882812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (119.52629852294922, 204.53518676757812, 141.7863006591797, 214.53518676757812)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� '0.070'
+  text bbox: (178.75994873046875, 317.3214111328125, 207.3799591064453, 327.3214111328125)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (236.96327209472656, 73.115234375, 259.2232971191406, 83.115234375)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (236.96327209472656, 105.97024536132812, 259.2232971191406, 115.97024536132812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (236.96327209472656, 138.82522583007812, 259.2232971191406, 148.82522583007812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (236.96327209472656, 171.68020629882812, 259.2232971191406, 181.68020629882812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1.00'
+  text bbox: (236.96327209472656, 204.53518676757812, 259.2232971191406, 214.53518676757812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (440.5162048339844, 73.115234375, 446.876220703125, 83.115234375)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (440.5162048339844, 105.97024536132812, 446.876220703125, 115.97024536132812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (440.5162048339844, 138.82522583007812, 446.876220703125, 148.82522583007812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (440.5162048339844, 171.68020629882812, 446.876220703125, 181.68020629882812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (440.5162048339844, 204.53518676757812, 446.876220703125, 214.53518676757812)
+[FAIL] page 1 text-stroke: Text is crossed by 1 stroked path(s) �� '0.089'
+  text bbox: (522.3963012695312, 285.893310546875, 551.0162963867188, 295.893310546875)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '0'
+  text bbox: (526.174072265625, 73.115234375, 532.5340576171875, 83.115234375)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '0'
+  text bbox: (526.174072265625, 105.97024536132812, 532.5340576171875, 115.97024536132812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '0'
+  text bbox: (526.174072265625, 138.82522583007812, 532.5340576171875, 148.82522583007812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (526.174072265625, 171.68020629882812, 532.5340576171875, 181.68020629882812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '0'
+  text bbox: (526.174072265625, 204.53518676757812, 532.5340576171875, 214.53518676757812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (611.8319702148438, 73.115234375, 618.1919555664062, 83.115234375)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (611.8319702148438, 105.97024536132812, 618.1919555664062, 115.97024536132812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (611.8319702148438, 138.82522583007812, 618.1919555664062, 148.82522583007812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (611.8319702148438, 171.68020629882812, 618.1919555664062, 181.68020629882812)
+[FAIL] page 1 text-stroke: Text is crossed by 2 stroked path(s) �� '1'
+  text bbox: (611.8319702148438, 204.53518676757812, 618.1919555664062, 214.53518676757812)
+[FAIL] page 1 text-text: Text boxes overlap by 6.1% of the smaller box �� 'A  SecAct direction across spatial cohorts'
+  other text: '1.0'
+  text bbox: (71.94062805175781, 46.33763122558594, 353.32867431640625, 58.33763122558594)
+[FAIL] page 1 text-text: Text boxes overlap by 12.8% of the smaller box �� 'Patient/sample positive fraction'
+  other text: 'SPARCL1'
+  text bbox: (349.03717041015625, 64.05404663085938, 359.0372009277344, 222.62652587890625)
+[FAIL] page 1 text-text: Text boxes overlap by 5.5% of the smaller box �� 'Patient/sample positive fraction'
+  other text: 'ANGPT2'
+  text bbox: (349.03717041015625, 64.05404663085938, 359.0372009277344, 222.62652587890625)
+
+summary: 32 fail, 0 warn, 25 contained fill overlays, 25 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review

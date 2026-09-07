@@ -1,0 +1,16 @@
+figure_or_table	panel_or_scope	source_data_file	status	primary_script_or_analysis
+Figure 1	A; single-cell cohort scale	source_data/Figure1_dataset_scale.tsv	READY_FOR_RELEASE	analysis/02_scrna_qc/run_scrna_qc_seurat.R
+Figure 1	B; candidate-screen summary	source_data/Figure1_candidate_screen_summary.tsv	READY_FOR_RELEASE	analysis/07_candidate_screen
+Figure 2	A-B; bulk and spatial validation	source_data/Figure2_bulk_spatial_source_data.tsv	READY_FOR_RELEASE	analysis/08_program_validation; analysis/09_spatial_validation
+Figure 2	independent GSE202051 localization	source_data/Figure2_GSE202051_localization_summary.tsv	READY_FOR_RELEASE	analysis/18_external_strengthening/01_audit_GSE202051_and_GSE300595.py
+Figure 3	A-D; signaling and conditional spatial models	source_data/Figure3_signaling_immune_source_data.tsv	READY_FOR_RELEASE	analysis/09_spatial_validation; analysis/10_communication_pseudotime; analysis/21_revision_strengthening
+Figure 4	A-D; virtual perturbation responses	source_data/Figure4_virtual_perturbation_source_data.tsv	READY_FOR_RELEASE	analysis/13_virtual_perturbation/02_run_virtual_perturbation.R
+Figure 4	program-level network summary	source_data/Figure4_network_program_summary.tsv	READY_FOR_RELEASE	analysis/13_virtual_perturbation
+Figure 5	A-B; pharmacology and structure summary	source_data/Figure5_pharmacology_source_data.tsv	READY_FOR_RELEASE	analysis/11_methodology_review; analysis/13_virtual_perturbation
+Figure 5	C; pose-level docking output	source_data/Figure5_docking_source_data.tsv	READY_FOR_RELEASE	analysis/13_virtual_perturbation/docking
+Figure 6	schematic	No tabular source data	NOT_APPLICABLE	analysis/15_priority_figures
+Table 1	cohort summary	source_data/Table1_single_cell_cohort_summary.tsv	READY_FOR_RELEASE	analysis/02_scrna_qc/run_scrna_qc_seurat.R
+Table 2	conditional spatial models	source_data/Table2_conditional_model_results.tsv	READY_FOR_RELEASE	analysis/21_revision_strengthening/run_directionality_spatial_models_figures.py
+Table 2	independent localization	source_data/Table2_independent_localization.tsv	READY_FOR_RELEASE	analysis/18_external_strengthening/01_audit_GSE202051_and_GSE300595.py
+Supplementary Figures	S1-S32	Supplementary source-data package	TO_DEPOSIT	analysis/15_priority_figures
+Supplementary Tables	S1-S6	Supplementary tables package	TO_DEPOSIT	analysis/15_priority_figures

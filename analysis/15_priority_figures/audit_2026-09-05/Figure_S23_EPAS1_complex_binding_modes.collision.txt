@@ -1,0 +1,22 @@
+Nature Figure Rendered Collision Audit
+pdf: D:\�ڶ�ƪ������\analysis\15_priority_figures\Figure_S23_EPAS1_complex_binding_modes.pdf
+pages: 1
+visible text boxes: 6
+stroke paths: 0
+
+[FAIL] page 1 text-text: Text boxes overlap by 62.9% of the smaller box �� 'Y-39983 | EPAS1 PAS-B (6D0B) | Vina'
+  other text: '7.729 kcal/mol'
+  text bbox: (120.36165618896484, 36.43620681762695, 449.42657470703125, 47.43620681762695)
+[FAIL] page 1 text-text: Text boxes overlap by 62.9% of the smaller box �� 'Triclabendazole | EPAS1 PAS-B (6CZW) | Vina'
+  other text: '6.967 kcal/mol'
+  text bbox: (522.585205078125, 36.43620681762695, 902.3351440429688, 47.43620681762695)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'Y-39983 | EPAS1 PAS-B (6D0B) | Vina'
+  text bbox: (120.36165618896484, 36.43620681762695, 449.42657470703125, 47.43620681762695)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'Supplementary Figure S23. ChimeraX representative EPAS1ligand complexes'
+  text bbox: (167.7859344482422, 7.512698650360107, 829.4639282226562, 22.512699127197266)
+[WARN] page 1 text-fill-edge: Text partially overlaps the edge of 1 filled region(s) �� 'Triclabendazole | EPAS1 PAS-B (6CZW) | Vina'
+  text bbox: (522.585205078125, 36.43620681762695, 902.3351440429688, 47.43620681762695)
+
+summary: 2 fail, 3 warn, 0 contained fill overlays, 0 contained image overlays
+verdict: FIX BEFORE DELIVERY
+note: contained overlays can be intentional; WARN findings need final-size visual review
