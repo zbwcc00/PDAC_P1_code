@@ -1,0 +1,3 @@
+dataset	tissue_context	CAF_score_rho	myeloid_score_rho	CD8_activation_rho	CD8_exhaustion_rho
+GSE155698	primary_tumor	0.258198889747161	-0.8		0.258198889747161
+GSE212966	primary_tumor	0.428571428571429	-0.371428571428571	-0.392792202424786	0.392792202424786

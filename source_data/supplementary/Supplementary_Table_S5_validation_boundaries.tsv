@@ -1,0 +1,24 @@
+source_table	gene	GTEx_overlap_n	GTEx_overlap_min_eqtl_p	GTEx_genomewide_instrument	BLUEPRINT_cis_n	BLUEPRINT_n_p5e8	BLUEPRINT_n_p1e5	LEPIK_cis_n	LEPIK_n_p5e8	LEPIK_n_p1e5	LEPIK_max_F	primary_MR_status	orthogonal_MR_status	feature	n	events	HR	SE	P	converged	continuous_HR	continuous_P	median_split_HR	median_split_P	drug	spearman_rho	FDR	model	TCGA_5fold_Cindex	CPTAC_external_Cindex
+MR_instrument_gate	EPAS1	0.0		False	9051.0	0.0	0.0	7962.0	60.0	80.0	60.9707059316819	fail	exploratory_only: tissue_mismatch_or_no_outcome_overlap																	
+MR_instrument_gate	TACC1	1.0	9.45816e-05	False	5160.0	0.0	22.0	4118.0	11.0	43.0	41.7580408050043	fail	exploratory_only: tissue_mismatch_or_no_outcome_overlap																	
+MR_instrument_gate	HERPUD1	1.0	4.02096e-06	False	8879.0	0.0	0.0	7263.0	36.0	55.0	53.2653019139554	fail	exploratory_only: tissue_mismatch_or_no_outcome_overlap																	
+GSE21501_survival														EPAS1_expression	102.0	66.0	0.913834536745437	0.128424226115264	0.4829125306447533	True										
+GSE21501_survival														endothelial_program	102.0	66.0	0.9717199427387252	0.1833220215283381	0.875648616861646	True										
+CPTAC_survival	TACC1														134.0	76.0					0.317456286978402	0.0182046256589582	0.800702642610912	0.334242194630375						
+CPTAC_survival	MARCKS														134.0	76.0					1.31425939827228	0.470948170581949	1.2361930870834	0.364453844705126						
+CPTAC_survival	HERPUD1														90.0	53.0					1.12145389271264	0.634593936762468	0.771205544743181	0.352604624632189						
+CPTAC_survival	PECAM1														134.0	76.0					0.837074453824694	0.571929106159005	1.06194341204434	0.794936372171925						
+CPTAC_survival	VWF														134.0	76.0					1.01194735525283	0.967324278699519	0.948694349570022	0.81896698511329						
+CPTAC_survival	EMCN														110.0	66.0					0.975448583356161	0.897160316527437	0.721834662444301	0.187903042665671						
+DepMap_PRISM	EPAS1														29.0				0.491570548113356						triclabendazole_logFC	-0.133004926108374	0.655427397484474			
+DepMap_PRISM	MARCKS														29.0				0.0418453391709689						triclabendazole_logFC	-0.380295566502463	0.299495226679026			
+DepMap_PRISM	HERPUD1														29.0				0.149747613339513						triclabendazole_logFC	-0.274384236453202	0.299495226679026			
+DepMap_PRISM	TACC1														29.0				0.778159777203543						triclabendazole_logFC	0.054679802955665	0.864004269612446			
+DepMap_PRISM	EPAS1														32.0				0.0841012913986026						Y39983_logFC	-0.310117302052786	0.299495226679026			
+DepMap_PRISM	MARCKS														32.0				0.864004269612446						Y39983_logFC	-0.031524926686217	0.864004269612446			
+DepMap_PRISM	HERPUD1														32.0				0.225657275292842						Y39983_logFC	-0.220307917888563	0.361051640468548			
+DepMap_PRISM	TACC1														32.0				0.148478323576079						Y39983_logFC	-0.261363636363636	0.299495226679026			
+survival_ML																												clinical	0.455684530266869	0.514782462623887
+survival_ML																												molecular_cox	0.467021045779996	0.476230472030909
+survival_ML																												elastic_net	0.5	0.5
+survival_ML																												survival_forest	0.507919288348883	0.47723836720981

@@ -1,0 +1,5 @@
+model	TCGA_5fold_Cindex	CPTAC_external_Cindex
+clinical	0.455684530266869	0.514782462623887
+molecular_cox	0.467021045779996	0.476230472030909
+elastic_net	0.5	0.5
+survival_forest	0.507919288348883	0.47723836720981

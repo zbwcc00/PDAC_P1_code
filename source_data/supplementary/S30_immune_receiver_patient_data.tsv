@@ -1,0 +1,125 @@
+patient	DiseaseState	receiver_group	endpoint	n_cells	value
+patient1	AdjNorm	Myeloid	ITGA5	70	0.0142857142857142
+patient1	PDAC	Myeloid	ITGA5	58	0.2068965517241379
+patient2	AdjNorm	Myeloid	ITGA5	41	0.0975609756097561
+patient2	PDAC	Myeloid	ITGA5	27	0.5925925925925926
+patient3	AdjNorm	Myeloid	ITGA5	57	0.0
+patient4	AdjNorm	Myeloid	ITGA5	151	0.119205298013245
+patient4	PDAC	Myeloid	ITGA5	116	0.0344827586206896
+patient5	AdjNorm	Myeloid	ITGA5	45	0.4
+patient5	PDAC	Myeloid	ITGA5	662	0.7114803625377644
+patient6	AdjNorm	Myeloid	ITGA5	443	0.3634311512415349
+patient6	PDAC	Myeloid	ITGA5	1282	0.4820592823712948
+patient7	PDAC	Myeloid	ITGA5	411	0.7737226277372263
+patient8	AdjNorm	Myeloid	ITGA5	40	0.075
+patient8	PDAC	Myeloid	ITGA5	63	0.3492063492063492
+patient9	AdjNorm	Myeloid	ITGA5	675	0.6992592592592592
+patient9	PDAC	Myeloid	ITGA5	629	0.4308426073131955
+patient1	AdjNorm	Myeloid	ITGB1	70	0.0285714285714285
+patient1	PDAC	Myeloid	ITGB1	58	1.8793103448275863
+patient2	AdjNorm	Myeloid	ITGB1	41	1.1219512195121952
+patient2	PDAC	Myeloid	ITGB1	27	2.814814814814815
+patient3	AdjNorm	Myeloid	ITGB1	57	0.0701754385964912
+patient4	AdjNorm	Myeloid	ITGB1	151	0.6556291390728477
+patient4	PDAC	Myeloid	ITGB1	116	0.3793103448275862
+patient5	AdjNorm	Myeloid	ITGB1	45	4.0
+patient5	PDAC	Myeloid	ITGB1	662	2.206948640483384
+patient6	AdjNorm	Myeloid	ITGB1	443	2.2686230248307
+patient6	PDAC	Myeloid	ITGB1	1282	2.7542901716068644
+patient7	PDAC	Myeloid	ITGB1	411	2.2506082725060828
+patient8	AdjNorm	Myeloid	ITGB1	40	0.8
+patient8	PDAC	Myeloid	ITGB1	63	1.6666666666666667
+patient9	AdjNorm	Myeloid	ITGB1	675	2.2503703703703706
+patient9	PDAC	Myeloid	ITGB1	629	1.78060413354531
+patient1	AdjNorm	Myeloid	ITGA5/ITGB1 receptor score	70	0.0214285714285714
+patient1	PDAC	Myeloid	ITGA5/ITGB1 receptor score	58	1.043103448275862
+patient2	AdjNorm	Myeloid	ITGA5/ITGB1 receptor score	41	0.6097560975609756
+patient2	PDAC	Myeloid	ITGA5/ITGB1 receptor score	27	1.7037037037037035
+patient3	AdjNorm	Myeloid	ITGA5/ITGB1 receptor score	57	0.0350877192982456
+patient4	AdjNorm	Myeloid	ITGA5/ITGB1 receptor score	151	0.3874172185430463
+patient4	PDAC	Myeloid	ITGA5/ITGB1 receptor score	116	0.2068965517241379
+patient5	AdjNorm	Myeloid	ITGA5/ITGB1 receptor score	45	2.2
+patient5	PDAC	Myeloid	ITGA5/ITGB1 receptor score	662	1.459214501510574
+patient6	AdjNorm	Myeloid	ITGA5/ITGB1 receptor score	443	1.3160270880361171
+patient6	PDAC	Myeloid	ITGA5/ITGB1 receptor score	1282	1.6181747269890796
+patient7	PDAC	Myeloid	ITGA5/ITGB1 receptor score	411	1.5121654501216546
+patient8	AdjNorm	Myeloid	ITGA5/ITGB1 receptor score	40	0.4375
+patient8	PDAC	Myeloid	ITGA5/ITGB1 receptor score	63	1.007936507936508
+patient9	AdjNorm	Myeloid	ITGA5/ITGB1 receptor score	675	1.4748148148148148
+patient9	PDAC	Myeloid	ITGA5/ITGB1 receptor score	629	1.1057233704292528
+patient1	AdjNorm	Myeloid	Lineage state score	70	0.3261904761904762
+patient1	PDAC	Myeloid	Lineage state score	58	1.600574712643678
+patient2	AdjNorm	Myeloid	Lineage state score	41	8.520325203252032
+patient2	PDAC	Myeloid	Lineage state score	27	2.969135802469136
+patient3	AdjNorm	Myeloid	Lineage state score	57	0.2690058479532163
+patient4	AdjNorm	Myeloid	Lineage state score	151	1.6346578366445916
+patient4	PDAC	Myeloid	Lineage state score	116	0.2887931034482758
+patient5	AdjNorm	Myeloid	Lineage state score	45	21.11851851851852
+patient5	PDAC	Myeloid	Lineage state score	662	7.867573011077543
+patient6	AdjNorm	Myeloid	Lineage state score	443	7.283295711060948
+patient6	PDAC	Myeloid	Lineage state score	1282	12.297841913676548
+patient7	PDAC	Myeloid	Lineage state score	411	10.614355231143552
+patient8	AdjNorm	Myeloid	Lineage state score	40	6.833333333333333
+patient8	PDAC	Myeloid	Lineage state score	63	5.515873015873016
+patient9	AdjNorm	Myeloid	Lineage state score	675	4.439259259259259
+patient9	PDAC	Myeloid	Lineage state score	629	10.037360890302066
+patient1	PDAC	T/NK	ITGA5	512	0.033203125
+patient2	AdjNorm	T/NK	ITGA5	85	0.0235294117647058
+patient2	PDAC	T/NK	ITGA5	268	0.0373134328358208
+patient3	PDAC	T/NK	ITGA5	228	0.1666666666666666
+patient4	AdjNorm	T/NK	ITGA5	354	0.0225988700564971
+patient4	PDAC	T/NK	ITGA5	965	0.0031088082901554
+patient5	AdjNorm	T/NK	ITGA5	103	0.087378640776699
+patient5	PDAC	T/NK	ITGA5	4949	0.0858759345322287
+patient6	AdjNorm	T/NK	ITGA5	574	0.0871080139372822
+patient6	PDAC	T/NK	ITGA5	988	0.1002024291497975
+patient7	PDAC	T/NK	ITGA5	708	0.077683615819209
+patient8	AdjNorm	T/NK	ITGA5	80	0.0375
+patient8	PDAC	T/NK	ITGA5	184	0.0760869565217391
+patient9	AdjNorm	T/NK	ITGA5	666	0.0645645645645645
+patient9	PDAC	T/NK	ITGA5	2647	0.0672459387986399
+patient1	PDAC	T/NK	ITGB1	512	0.4609375
+patient2	AdjNorm	T/NK	ITGB1	85	0.2235294117647059
+patient2	PDAC	T/NK	ITGB1	268	0.7910447761194029
+patient3	PDAC	T/NK	ITGB1	228	0.7763157894736842
+patient4	AdjNorm	T/NK	ITGB1	354	0.2994350282485876
+patient4	PDAC	T/NK	ITGB1	965	0.2207253886010362
+patient5	AdjNorm	T/NK	ITGB1	103	1.058252427184466
+patient5	PDAC	T/NK	ITGB1	4949	0.4291776116387149
+patient6	AdjNorm	T/NK	ITGB1	574	1.3554006968641117
+patient6	PDAC	T/NK	ITGB1	988	1.2439271255060729
+patient7	PDAC	T/NK	ITGB1	708	1.3064971751412429
+patient8	AdjNorm	T/NK	ITGB1	80	0.125
+patient8	PDAC	T/NK	ITGB1	184	1.184782608695652
+patient9	AdjNorm	T/NK	ITGB1	666	1.37987987987988
+patient9	PDAC	T/NK	ITGB1	2647	1.1711371363808083
+patient1	PDAC	T/NK	ITGA5/ITGB1 receptor score	512	0.2470703125
+patient2	AdjNorm	T/NK	ITGA5/ITGB1 receptor score	85	0.1235294117647058
+patient2	PDAC	T/NK	ITGA5/ITGB1 receptor score	268	0.4141791044776119
+patient3	PDAC	T/NK	ITGA5/ITGB1 receptor score	228	0.4714912280701754
+patient4	AdjNorm	T/NK	ITGA5/ITGB1 receptor score	354	0.1610169491525423
+patient4	PDAC	T/NK	ITGA5/ITGB1 receptor score	965	0.1119170984455958
+patient5	AdjNorm	T/NK	ITGA5/ITGB1 receptor score	103	0.5728155339805825
+patient5	PDAC	T/NK	ITGA5/ITGB1 receptor score	4949	0.2575267730854718
+patient6	AdjNorm	T/NK	ITGA5/ITGB1 receptor score	574	0.7212543554006968
+patient6	PDAC	T/NK	ITGA5/ITGB1 receptor score	988	0.6720647773279352
+patient7	PDAC	T/NK	ITGA5/ITGB1 receptor score	708	0.692090395480226
+patient8	AdjNorm	T/NK	ITGA5/ITGB1 receptor score	80	0.08125
+patient8	PDAC	T/NK	ITGA5/ITGB1 receptor score	184	0.6304347826086957
+patient9	AdjNorm	T/NK	ITGA5/ITGB1 receptor score	666	0.7222222222222222
+patient9	PDAC	T/NK	ITGA5/ITGB1 receptor score	2647	0.6191915375897242
+patient1	PDAC	T/NK	Lineage state score	512	1.16953125
+patient2	AdjNorm	T/NK	Lineage state score	85	1.5529411764705885
+patient2	PDAC	T/NK	Lineage state score	268	1.9059701492537315
+patient3	PDAC	T/NK	Lineage state score	228	0.8842105263157894
+patient4	AdjNorm	T/NK	Lineage state score	354	1.223728813559322
+patient4	PDAC	T/NK	Lineage state score	965	0.558341968911917
+patient5	AdjNorm	T/NK	Lineage state score	103	3.5980582524271845
+patient5	PDAC	T/NK	Lineage state score	4949	1.4575469791877147
+patient6	AdjNorm	T/NK	Lineage state score	574	5.043554006968641
+patient6	PDAC	T/NK	Lineage state score	988	5.897773279352227
+patient7	PDAC	T/NK	Lineage state score	708	2.124011299435028
+patient8	AdjNorm	T/NK	Lineage state score	80	1.2325
+patient8	PDAC	T/NK	Lineage state score	184	2.792391304347826
+patient9	AdjNorm	T/NK	Lineage state score	666	6.238738738738738
+patient9	PDAC	T/NK	Lineage state score	2647	2.795013222516056

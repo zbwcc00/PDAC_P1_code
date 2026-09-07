@@ -1,0 +1,11 @@
+source	direction	term	n_tests	min_padj
+GO-BP	up	external encapsulating structure organization	2	5.9637450245346e-23
+GO-BP	up	extracellular matrix organization	2	5.9637450245346e-23
+GO-BP	up	extracellular structure organization	2	5.9637450245346e-23
+GO-BP	up	collagen fibril organization	2	9.39472200804856e-18
+GO-BP	down	antigen processing and presentation of exogenous peptide antigen	2	5.07951753215709e-14
+GO-BP	down	antigen processing and presentation of exogenous antigen	2	4.77605716881891e-13
+GO-BP	down	MHC class II protein complex assembly	2	2.03928092216633e-12
+GO-BP	down	peptide antigen assembly with MHC class II protein complex	2	2.03928092216633e-12
+GO-BP	down	antigen processing and presentation of peptide antigen	2	3.2715829441747297e-12
+GO-BP	down	antigen processing and presentation of exogenous peptide antigen via MHC class II	2	2.7016385436322898e-11

@@ -1,0 +1,9 @@
+dataset	analysis_unit	patient_or_sample	outcome	model	n_spots	beta_epas1	partial_r
+GSE297144	sample	GSM8984652_FRU_01	endothelial_program_excluding_EPAS1	outcome ~ EPAS1 + vascular score + depth + detected genes + 4x4 spatial block	3432	-0.024706499404056	-0.024706499404056
+GSE297144	sample	GSM8984653_FRU_02	endothelial_program_excluding_EPAS1	outcome ~ EPAS1 + vascular score + depth + detected genes + 4x4 spatial block	3629	-0.0603360400324064	-0.0603360400324064
+GSE297144	sample	GSM8984654_FRU_03	endothelial_program_excluding_EPAS1	outcome ~ EPAS1 + vascular score + depth + detected genes + 4x4 spatial block	2043	-0.0225743526141865	-0.0225743526141865
+GSE297144	sample	GSM8984655_FRU_04	endothelial_program_excluding_EPAS1	outcome ~ EPAS1 + vascular score + depth + detected genes + 4x4 spatial block	0		
+GSE297144	sample	GSM8984656_FRU_05	endothelial_program_excluding_EPAS1	outcome ~ EPAS1 + vascular score + depth + detected genes + 4x4 spatial block	4570	0.0104640214083081	0.0104640214083081
+GSE297144	sample	GSM8984657_FRU_06	endothelial_program_excluding_EPAS1	outcome ~ EPAS1 + vascular score + depth + detected genes + 4x4 spatial block	0		
+GSE297144	sample	GSM8984658_FRU_07	endothelial_program_excluding_EPAS1	outcome ~ EPAS1 + vascular score + depth + detected genes + 4x4 spatial block	3658	-0.0165547605157346	-0.0165547605157346
+GSE297144	sample	GSM8984659_FRU_08	endothelial_program_excluding_EPAS1	outcome ~ EPAS1 + vascular score + depth + detected genes + 4x4 spatial block	2705	0.0229631897551673	0.0229631897551673

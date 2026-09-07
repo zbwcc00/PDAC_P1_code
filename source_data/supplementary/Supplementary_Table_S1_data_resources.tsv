@@ -1,0 +1,19 @@
+source_table	resource_id	repository_or_resource	assay_or_resource	role_in_study	independent_unit	redistribution_note
+public_data_manifest	GSE154778	GEO	scRNA-seq	Discovery; endothelial pseudobulk	Patient/sample	Download from GEO
+public_data_manifest	GSE155698	GEO	scRNA-seq	Discovery; endothelial pseudobulk	Patient/sample	Download from GEO
+public_data_manifest	GSE212966	GEO	scRNA-seq	Discovery; endothelial pseudobulk	Patient/sample	Download from GEO
+public_data_manifest	GSE62452	GEO	Bulk expression	External paired validation	Patient/pair	Download from GEO
+public_data_manifest	GSE71729	GEO	Bulk expression	External validation	Individual sample	Download from GEO
+public_data_manifest	GSE282302	GEO	Image-resolved spatial transcriptomics	Spatial localization and conditional model	Patient	Download from GEO
+public_data_manifest	GSE297144	GEO	Image-resolved spatial transcriptomics	Spatial replication and endothelial control	Processed sample	Download from GEO
+public_data_manifest	GSE327056	GEO	Visium spatial transcriptomics	Descriptive vascular-score replication	Spatial section	Download from GEO
+public_data_manifest	GSE202051	GEO	scRNA-seq	Independent tumor-only endothelial localization	Patient	Download from GEO
+public_data_manifest	GSE205049	GEO	CD45-enriched paired scRNA-seq	Immune receiver-side sensitivity	Patient/pair	Download from GEO
+public_data_manifest	GSE21501	GEO	Bulk expression with survival annotation	Survival sensitivity	Individual patient	Download from GEO
+public_data_manifest	TCGA-PAAD	GDC	Multi-omics cancer resource	Orthogonal association and sensitivity analyses	Individual case	Follow GDC terms
+public_data_manifest	CPTAC-PAAD	CPTAC	Proteomics	Protein-level sensitivity analyses	Individual case	Follow CPTAC terms
+public_data_manifest	DepMap	DepMap	CRISPR dependency data	Dependency sensitivity analysis	Cell line	Follow DepMap terms
+public_data_manifest	PRISM 20Q2	Broad Institute	Drug viability profiles	Pharmacology prioritization	Cell line	Follow PRISM terms
+public_data_manifest	GTEx	GTEx Portal	cis-eQTL data	MR instrument discovery	Variant/gene	Follow GTEx terms
+public_data_manifest	eQTL Catalogue	eQTL Catalogue	cis-eQTL data	MR sensitivity analysis	Variant/gene	Follow source terms
+public_data_manifest	GWAS Catalog	GWAS Catalog	PDAC GWAS summary statistics	MR outcome data	Variant	Follow GWAS Catalog terms

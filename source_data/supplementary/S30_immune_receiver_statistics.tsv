@@ -1,0 +1,9 @@
+receiver_group	endpoint	n_paired_patients	n_nonzero_deltas	median_PDAC_minus_AdjNorm	mean_PDAC_minus_AdjNorm	wilcoxon_statistic	paired_wilcoxon_two_sided_p	exact_sign_test_two_sided_p	n_positive_deltas	n_negative_deltas	BH_q	interpretation
+Myeloid	ITGA5	7	7	0.1926108374384236	0.1484025865652163	5.0	0.15625	0.453125	5	2	0.9166666666666666	not significant after pre-specified multiple-testing correction
+Myeloid	ITGB1	7	7	0.4856671467761648	0.3366857049163815	9.0	0.46875	1.0	4	3	0.9166666666666666	not significant after pre-specified multiple-testing correction
+Myeloid	ITGA5/ITGB1 receptor score	7	7	0.3021476389529622	0.2425441457407989	9.0	0.46875	1.0	4	3	0.9166666666666666	not significant after pre-specified multiple-testing correction
+Myeloid	Lineage state score	7	7	-1.3174603174603172	-1.3683468412526998	11.0	0.6875	1.0	3	4	0.9166666666666666	not significant after pre-specified multiple-testing correction
+T/NK	ITGA5	6	6	0.0078878947232953	0.0078589998381054	6.0	0.4375	0.6875	4	2	0.9166666666666666	not significant after pre-specified multiple-testing correction
+T/NK	ITGB1	6	6	-0.0950916055027949	0.0998828671666561	10.0	1.0	0.6875	2	4	1.0	not significant after pre-specified multiple-testing correction
+T/NK	ITGA5/ITGB1 receptor score	6	6	-0.049144714389854	0.0538709335023808	10.0	1.0	0.6875	2	4	1.0	not significant after pre-specified multiple-testing correction
+T/NK	Lineage state score	6	6	-0.156178935932131	-0.5804140140991672	8.0	0.6875	1.0	3	3	0.9166666666666666	not significant after pre-specified multiple-testing correction
