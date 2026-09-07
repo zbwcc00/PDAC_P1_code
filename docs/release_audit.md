@@ -37,4 +37,4 @@ The `source_data/` directory now contains small, non-identifying TSV files for t
 
 ## Zenodo release
 
-After the repository is on GitHub, connect it to Zenodo, create a release tag matching the manuscript version, and reserve/archive the release DOI. Add that DOI to the manuscript's Code Availability statement and to the Data Availability statement if source-data tables are archived in the same record.
+The GitHub release `v0.1.0` is available at `https://github.com/zbwcc00/PDAC_P1_code/releases/tag/v0.1.0`. Authorize GitHub in Zenodo, enable this repository, and use that release to create the archival record. Verify the draft record's creators, affiliation, description, keywords, version, related GitHub URL, licence, file manifest, and public visibility before publishing. Add the final DOI to the manuscript's Code Availability statement and Data Availability statement if source-data tables are archived in the same record. Do not mint or report a DOI until Zenodo assigns it.
