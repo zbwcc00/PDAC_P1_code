@@ -48,7 +48,7 @@ Patient/sample is the inferential unit for pseudobulk and spatial-replication an
 
 ## Data and code availability
 
-The raw and processed third-party datasets are available from their original repositories under the accession numbers in `metadata/public_data_manifest.tsv`. This repository will be archived as a versioned Zenodo release before submission; the release DOI and a stable source-data record will be added after deposition.
+The raw and processed third-party datasets are available from their original repositories under the accession numbers in `metadata/public_data_manifest.tsv`. The versioned analysis code and processed, non-identifying source-data tables are archived in Zenodo: version `v0.1.2`, [10.5281/zenodo.22647158](https://doi.org/10.5281/zenodo.22647158); concept DOI, [10.5281/zenodo.22647157](https://doi.org/10.5281/zenodo.22647157). The matching GitHub release is [v0.1.2](https://github.com/zbwcc00/PDAC_P1_code/releases/tag/v0.1.2).
 
 ## Licence
 
